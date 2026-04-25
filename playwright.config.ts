@@ -1,5 +1,7 @@
 import { defineConfig } from "@playwright/test";
 
+const baseURL = process.env.UI_BASE_URL ?? "https://www.mvideo.ru";
+
 export default defineConfig({
   testDir: "./tests",
   timeout: 30_000,
@@ -8,6 +10,7 @@ export default defineConfig({
   },
   reporter: [["list"], ["html", { open: "never" }]],
   use: {
+    baseURL,
     trace: "on-first-retry",
     screenshot: "only-on-failure",
     video: "retain-on-failure",
