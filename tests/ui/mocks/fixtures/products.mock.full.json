@@ -1,0 +1,1793 @@
+{
+  "success": true,
+  "messages": [],
+  "body": {
+    "items": [
+      {
+        "name": "Мобильный телефон BQ BQ-2430 Tank Power camouflage gold",
+        "images": ["Pdb/400491035b.jpg", "Pdb/400491035b1.jpg"],
+        "productId": "400491035",
+        "slug": "/products/mobilnyi-telefon-bq-bq-2430-tank-power-camouflage-gold-400491035",
+        "price": {
+          "salePrice": 2352,
+          "basePrice": 2399,
+          "discount": 1
+        },
+        "bonusAmount": 129,
+        "badge": {
+          "title": "Поруби цену",
+          "bgColor": "#966feb",
+          "textColor": "#fff",
+          "borderColor": "#966feb"
+        },
+        "isNew": false,
+        "isOriginal": null,
+        "isPreorder": false,
+        "rating": {
+          "count": 21,
+          "star": 4.8
+        },
+        "status": "available",
+        "soldOut": false,
+        "isLastChance": false
+      }
+    ],
+    "cursorId": "60",
+    "total": 8515,
+    "filters": [
+      {
+        "id": "price",
+        "name": "Цена",
+        "type": "RANGE",
+        "optionRange": {
+          "selected": false,
+          "initialMin": 4,
+          "initialMax": 449999
+        }
+      },
+      {
+        "id": "category",
+        "name": "Категория",
+        "type": "RADIO",
+        "options": [
+          {
+            "valueId": "761",
+            "value": "Смартфоны",
+            "disabled": false,
+            "selected": false
+          },
+          {
+            "valueId": "914",
+            "value": "iPhone",
+            "disabled": false,
+            "selected": false
+          },
+          {
+            "valueId": "512",
+            "value": "Телефоны мобильные",
+            "disabled": false,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "id": "Бренд",
+        "name": "Бренд",
+        "type": "CHECKBOX",
+        "options": [
+          {
+            "valueId": "Apple",
+            "value": "Apple",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Samsung",
+            "value": "Samsung",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Xiaomi",
+            "value": "Xiaomi",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "realme",
+            "value": "realme",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "HUAWEI",
+            "value": "HUAWEI",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Tecno",
+            "value": "Tecno",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "HONOR",
+            "value": "HONOR",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "POCO",
+            "value": "POCO",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "SAMSUNG",
+            "value": "SAMSUNG",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Infinix",
+            "value": "Infinix",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "OnePlus",
+            "value": "OnePlus",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "XENIUM",
+            "value": "XENIUM",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "BQ",
+            "value": "BQ",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "OPPO",
+            "value": "OPPO",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Poco",
+            "value": "Poco",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "iQOO",
+            "value": "iQOO",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Redmi",
+            "value": "Redmi",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "vivo",
+            "value": "vivo",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Blackview",
+            "value": "Blackview",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Xiaomi Redmi",
+            "value": "Xiaomi Redmi",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Olmio",
+            "value": "Olmio",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Huawei",
+            "value": "Huawei",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Honor",
+            "value": "Honor",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Google",
+            "value": "Google",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Realme",
+            "value": "Realme",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "TECNO",
+            "value": "TECNO",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "XIAOMI",
+            "value": "XIAOMI",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "teXet",
+            "value": "teXet",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Inoi",
+            "value": "Inoi",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Philips",
+            "value": "Philips",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "INFINIX",
+            "value": "INFINIX",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Doogee",
+            "value": "Doogee",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Nothing",
+            "value": "Nothing",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "нет бренда",
+            "value": "нет бренда",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Ulefone",
+            "value": "Ulefone",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "VIVO",
+            "value": "VIVO",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "honor",
+            "value": "honor",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "4MOBILE",
+            "value": "4MOBILE",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Elari",
+            "value": "Elari",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "FONTEL",
+            "value": "FONTEL",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Motorola",
+            "value": "Motorola",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Nokia",
+            "value": "Nokia",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "TOKKY",
+            "value": "TOKKY",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "RugOne",
+            "value": "RugOne",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "oppo",
+            "value": "oppo",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Acer",
+            "value": "Acer",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "CMF by Nothing",
+            "value": "CMF by Nothing",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "F+",
+            "value": "F+",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Galaxy",
+            "value": "Galaxy",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Meizu",
+            "value": "Meizu",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "REALME",
+            "value": "REALME",
+            "selected": false,
+            "disabled": false
+          }
+        ]
+      },
+      {
+        "id": "Акции",
+        "name": "Акции",
+        "type": "CHECKBOX",
+        "options": [
+          {
+            "valueId": "Скидка 60% на подписку KION за любую покупку",
+            "value": "Скидка 60% на подписку KION за любую покупку",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Весенняя Чёрная пятница",
+            "value": "Весенняя Чёрная пятница",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Дачку на прокачку",
+            "value": "Дачку на прокачку",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Ликвидация: скидки до 90%",
+            "value": "Ликвидация: скидки до 90%",
+            "selected": false,
+            "disabled": false
+          }
+        ]
+      },
+      {
+        "id": "Доставить курьером",
+        "name": "Доставить курьером",
+        "type": "SWITCH",
+        "groupId": null,
+        "optionSwitch": {
+          "valueId": "true",
+          "value": "true",
+          "disabled": false,
+          "selected": false
+        }
+      },
+      {
+        "id": "Продавец",
+        "name": "Продавец",
+        "type": "CHECKBOX",
+        "options": [
+          {
+            "valueId": "М.Видео",
+            "value": "М.Видео",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Кицын Кирилл Михайлович",
+            "value": "ИП Кицын Кирилл Михайлович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ООО \"Холодильник.Ру\"",
+            "value": "ООО \"Холодильник.Ру\"",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Кулешова Евгения Евгеньевна",
+            "value": "ИП Кулешова Евгения Евгеньевна",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Бирюзов Евгений Анатольевич",
+            "value": "ИП Бирюзов Евгений Анатольевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Очередько Денис Леонидович",
+            "value": "ИП Очередько Денис Леонидович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Попов Дмитрий Александрович",
+            "value": "ИП Попов Дмитрий Александрович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Бабенко Елена Сергеевна",
+            "value": "ИП Бабенко Елена Сергеевна",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Бирюзова Анастасия Владимировна",
+            "value": "ИП Бирюзова Анастасия Владимировна",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Козлитин Николай Михайлович",
+            "value": "ИП Козлитин Николай Михайлович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Лысенко Марина Васильевна",
+            "value": "ИП Лысенко Марина Васильевна",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Ридняк Ромада Юрьевна",
+            "value": "ИП Ридняк Ромада Юрьевна",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Пархоменко Светлана Анатольевна",
+            "value": "ИП Пархоменко Светлана Анатольевна",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Огурцов Александр Евгеньевич",
+            "value": "ИП Огурцов Александр Евгеньевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Казанцева Ксения Валерьевна",
+            "value": "ИП Казанцева Ксения Валерьевна",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Сорокин Леонид Игоревич",
+            "value": "ИП Сорокин Леонид Игоревич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Тельпиз Сергей Андреевич",
+            "value": "ИП Тельпиз Сергей Андреевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ООО \"СОВРЕМЕННЫЕ УСТРОЙСТВА\"",
+            "value": "ООО \"СОВРЕМЕННЫЕ УСТРОЙСТВА\"",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Рындин Владимир Александрович",
+            "value": "ИП Рындин Владимир Александрович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Скоромных Юлия Сергеевна",
+            "value": "ИП Скоромных Юлия Сергеевна",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Косоруков Федор Андреевич",
+            "value": "ИП Косоруков Федор Андреевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Хохлов Петр Петрович",
+            "value": "ИП Хохлов Петр Петрович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Копосова Мария Валерьевна",
+            "value": "ИП Копосова Мария Валерьевна",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ВАЙЗ БРИДЖ БРОКЕР СЕРВИСЕЗ-ФЗКО",
+            "value": "ВАЙЗ БРИДЖ БРОКЕР СЕРВИСЕЗ-ФЗКО",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Беляков Максим Алексеевич",
+            "value": "ИП Беляков Максим Алексеевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Кондратьев Семён Алексеевич",
+            "value": "ИП Кондратьев Семён Алексеевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Карпенко Алексей Сергеевич",
+            "value": "ИП Карпенко Алексей Сергеевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Мухин Кирилл Евгеньевич",
+            "value": "ИП Мухин Кирилл Евгеньевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Хохлова Елена Александровна",
+            "value": "ИП Хохлова Елена Александровна",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Тимонин Денис Евгеньевич",
+            "value": "ИП Тимонин Денис Евгеньевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ООО \"Байон\"",
+            "value": "ООО \"Байон\"",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Бондаренко Максим Васильевич",
+            "value": "ИП Бондаренко Максим Васильевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Василенко Владимир Дмитриевич",
+            "value": "ИП Василенко Владимир Дмитриевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Лысцова Наталья Александровна",
+            "value": "ИП Лысцова Наталья Александровна",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Ермилов Антон Дмитриевич",
+            "value": "ИП Ермилов Антон Дмитриевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Булгаков Алексей Анатольевич",
+            "value": "ИП Булгаков Алексей Анатольевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Мухин Михаил Андреевич",
+            "value": "ИП Мухин Михаил Андреевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ООО Алвер",
+            "value": "ООО Алвер",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Власова Татьяна Михайловна",
+            "value": "ИП Власова Татьяна Михайловна",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Сатункина Виктория Александровна",
+            "value": "ИП Сатункина Виктория Александровна",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Негодин Максим Александрович",
+            "value": "ИП Негодин Максим Александрович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ООО \"ОТСЕТИ.РУ\"",
+            "value": "ООО \"ОТСЕТИ.РУ\"",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Сергеева Юлия Витальевна",
+            "value": "ИП Сергеева Юлия Витальевна",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Игошева Наталья Ивановна",
+            "value": "ИП Игошева Наталья Ивановна",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Коваль Даниил Олегович",
+            "value": "ИП Коваль Даниил Олегович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Липунцов Дмитрий Александрович",
+            "value": "ИП Липунцов Дмитрий Александрович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Адиев Сулиман Хамидович",
+            "value": "ИП Адиев Сулиман Хамидович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Ластовка Алексей Сергеевич",
+            "value": "ИП Ластовка Алексей Сергеевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ООО ДИХАУС ЭКОМ",
+            "value": "ООО ДИХАУС ЭКОМ",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Белоусова Татьяна Александровна",
+            "value": "ИП Белоусова Татьяна Александровна",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Сосёнкина Вера Владимировна",
+            "value": "ИП Сосёнкина Вера Владимировна",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП ЛИПУНЦОВА ОЛЬГА ПЕТРОВНА",
+            "value": "ИП ЛИПУНЦОВА ОЛЬГА ПЕТРОВНА",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Мутных Сергей Павлович",
+            "value": "ИП Мутных Сергей Павлович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Шмаков Сергей Владимирович",
+            "value": "ИП Шмаков Сергей Владимирович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Гловацкий Иван Олегович",
+            "value": "ИП Гловацкий Иван Олегович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Магомедов Запиритдин Магомедтагирович",
+            "value": "ИП Магомедов Запиритдин Магомедтагирович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Смирнов Владимир Владимирович",
+            "value": "ИП Смирнов Владимир Владимирович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ООО \"Игровые Технологии\"",
+            "value": "ООО \"Игровые Технологии\"",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Арнаутов Руслан Анатольевич",
+            "value": "ИП Арнаутов Руслан Анатольевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Юшко Анна Сергеевна",
+            "value": "ИП Юшко Анна Сергеевна",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Таиров Яков Олегович",
+            "value": "ИП Таиров Яков Олегович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ООО МАГ ДЕВАЙС",
+            "value": "ООО МАГ ДЕВАЙС",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Гуртовой Евгений Альбертович",
+            "value": "ИП Гуртовой Евгений Альбертович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Шабалин Денис Александрович",
+            "value": "ИП Шабалин Денис Александрович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Астафуров Данил Сергеевич",
+            "value": "ИП Астафуров Данил Сергеевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Бабушев Гаджи Абдулазимович",
+            "value": "ИП Бабушев Гаджи Абдулазимович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Васильцова Ксения Сергеевна",
+            "value": "ИП Васильцова Ксения Сергеевна",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Пичугин Евгений Алексеевич",
+            "value": "ИП Пичугин Евгений Алексеевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Свободников Святослав Михайлович",
+            "value": "ИП Свободников Святослав Михайлович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Цикунов Игорь Андреевич",
+            "value": "ИП Цикунов Игорь Андреевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Быков Сергей Михайлович",
+            "value": "ИП Быков Сергей Михайлович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Гукова Ольга Михайловна",
+            "value": "ИП Гукова Ольга Михайловна",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Дудуев Леонид Оскарович",
+            "value": "ИП Дудуев Леонид Оскарович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Рацкевич Игорь Владимирович",
+            "value": "ИП Рацкевич Игорь Владимирович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Романчук Татьяна Александровна",
+            "value": "ИП Романчук Татьяна Александровна",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ООО \"Новый Ай Ти Проект\"",
+            "value": "ООО \"Новый Ай Ти Проект\"",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ООО \"РИТОРА\"",
+            "value": "ООО \"РИТОРА\"",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Гладких Георгий Алексеевич",
+            "value": "ИП Гладких Георгий Алексеевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Головков Максим Евгеньевич",
+            "value": "ИП Головков Максим Евгеньевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Кононов Дмитрий Константинович",
+            "value": "ИП Кононов Дмитрий Константинович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Кучеров Сергей Викторович",
+            "value": "ИП Кучеров Сергей Викторович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Малова Софья Валерьевна",
+            "value": "ИП Малова Софья Валерьевна",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Павлищев Николай Сергеевич",
+            "value": "ИП Павлищев Николай Сергеевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Чаплиев Руслан Этибарович",
+            "value": "ИП Чаплиев Руслан Этибарович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ООО \"АБСОЛЮТ ТРЕЙД\"",
+            "value": "ООО \"АБСОЛЮТ ТРЕЙД\"",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ООО \"Торговый дом ЛОТОС М\"",
+            "value": "ООО \"Торговый дом ЛОТОС М\"",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Байкеев Равиль Рушанович",
+            "value": "ИП Байкеев Равиль Рушанович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Безводицкий Евгений Николаевич",
+            "value": "ИП Безводицкий Евгений Николаевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Гаврилов Михаил Михайлович",
+            "value": "ИП Гаврилов Михаил Михайлович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Зимин Кирилл Витальевич",
+            "value": "ИП Зимин Кирилл Витальевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Иванов Игорь Евгеньевич",
+            "value": "ИП Иванов Игорь Евгеньевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Ионов Анатолий Юрьевич",
+            "value": "ИП Ионов Анатолий Юрьевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Каспаров Тигран Каренович",
+            "value": "ИП Каспаров Тигран Каренович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Конон Сергей Александрович",
+            "value": "ИП Конон Сергей Александрович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Кривенко Елена Сергеевна",
+            "value": "ИП Кривенко Елена Сергеевна",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Кудашов Даниил Алексеевич",
+            "value": "ИП Кудашов Даниил Алексеевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Мамедов Гамид Шойраддин Оглы",
+            "value": "ИП Мамедов Гамид Шойраддин Оглы",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Минин Алексей Сергеевич",
+            "value": "ИП Минин Алексей Сергеевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Осипов Андрей Валерьевич",
+            "value": "ИП Осипов Андрей Валерьевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Павлов Ростислав Евгеньевич",
+            "value": "ИП Павлов Ростислав Евгеньевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Рафиев Рустам Джумшуд Оглы",
+            "value": "ИП Рафиев Рустам Джумшуд Оглы",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Романчук Илья Игоревич",
+            "value": "ИП Романчук Илья Игоревич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Субтельный Федор Евгеньевич",
+            "value": "ИП Субтельный Федор Евгеньевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Тарасов Владимир Андреевич",
+            "value": "ИП Тарасов Владимир Андреевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Фаткуллин Алик Радикович",
+            "value": "ИП Фаткуллин Алик Радикович",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Цехмистренко Дмитрий Сергеевич",
+            "value": "ИП Цехмистренко Дмитрий Сергеевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ИП Чкалов Владимир Анатольевич",
+            "value": "ИП Чкалов Владимир Анатольевич",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ООО \"ДИХАУС\"",
+            "value": "ООО \"ДИХАУС\"",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ООО \"Датасет\"",
+            "value": "ООО \"Датасет\"",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "ООО \"КОСМОСТОР ГРУПП\"",
+            "value": "ООО \"КОСМОСТОР ГРУПП\"",
+            "selected": false,
+            "disabled": false
+          }
+        ]
+      },
+      {
+        "id": "Емкость аккумулятора",
+        "name": "Емкость аккумулятора",
+        "type": "CHECKBOX",
+        "options": [
+          {
+            "valueId": "3000-5000 мАч",
+            "value": "3000-5000 мАч",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "5001-7000 мАч",
+            "value": "5001-7000 мАч",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "7001-10 000 мАч",
+            "value": "7001-10 000 мАч",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "до 1100 мАч",
+            "value": "до 1100 мАч",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "от 1200 до 2300 мАч",
+            "value": "от 1200 до 2300 мАч",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "2400 мАч и более",
+            "value": "2400 мАч и более",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "более 10 000 мАч",
+            "value": "более 10 000 мАч",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "до 2999 мАч",
+            "value": "до 2999 мАч",
+            "selected": false,
+            "disabled": false
+          }
+        ]
+      },
+      {
+        "id": "Количество сим-карт",
+        "name": "Количество сим-карт",
+        "type": "CHECKBOX",
+        "options": [
+          {
+            "valueId": "2",
+            "value": "2",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "1",
+            "value": "1",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "3",
+            "value": "3",
+            "selected": false,
+            "disabled": false
+          }
+        ]
+      },
+      {
+        "id": "Тип SIM-карты",
+        "name": "Тип SIM-карты",
+        "type": "CHECKBOX",
+        "options": [
+          {
+            "valueId": "mini-SIM",
+            "value": "mini-SIM",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "nano-SIM",
+            "value": "nano-SIM",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "micro-SIM",
+            "value": "micro-SIM",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "mini-SIM / micro-SIM",
+            "value": "mini-SIM / micro-SIM",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "nano-SIM/micro-SIM/mini-SIM",
+            "value": "nano-SIM/micro-SIM/mini-SIM",
+            "selected": false,
+            "disabled": false
+          }
+        ]
+      },
+      {
+        "id": "Фотокамера",
+        "name": "Фотокамера",
+        "type": "CHECKBOX",
+        "options": [
+          {
+            "valueId": "0.3 МПикс",
+            "value": "0.3 МПикс",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "0.08 МПикс",
+            "value": "0.08 МПикс",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "1 МПикс",
+            "value": "1 МПикс",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "1.3 МПикс",
+            "value": "1.3 МПикс",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "2 МПикс",
+            "value": "2 МПикс",
+            "selected": false,
+            "disabled": false
+          }
+        ]
+      },
+      {
+        "id": "Материал корпуса",
+        "name": "Материал корпуса",
+        "type": "CHECKBOX",
+        "options": [
+          {
+            "valueId": "Комбинированный",
+            "value": "Комбинированный",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Металл",
+            "value": "Металл",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Пластик",
+            "value": "Пластик",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Стекло",
+            "value": "Стекло",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "пластик",
+            "value": "пластик",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "другой",
+            "value": "другой",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "кожа",
+            "value": "кожа",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "комбинированный",
+            "value": "комбинированный",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "металл",
+            "value": "металл",
+            "selected": false,
+            "disabled": false
+          }
+        ]
+      },
+      {
+        "id": "Встроенный фонарик",
+        "name": "Встроенный фонарик",
+        "type": "CHECKBOX",
+        "options": [
+          {
+            "valueId": "Да",
+            "value": "Да",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Нет",
+            "value": "Нет",
+            "selected": false,
+            "disabled": false
+          }
+        ]
+      },
+      {
+        "id": "Кнопка SOS",
+        "name": "Кнопка SOS",
+        "type": "CHECKBOX",
+        "options": [
+          {
+            "valueId": "Нет",
+            "value": "Нет",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Да",
+            "value": "Да",
+            "selected": false,
+            "disabled": false
+          }
+        ]
+      },
+      {
+        "id": "Диагональ экрана",
+        "name": "Диагональ экрана",
+        "type": "CHECKBOX",
+        "options": [
+          {
+            "valueId": "6.6\" и более",
+            "value": "6.6\" и более",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "6.2 - 6.5\"",
+            "value": "6.2 - 6.5\"",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "5.6 - 6.1\"",
+            "value": "5.6 - 6.1\"",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "2.6\" и более",
+            "value": "2.6\" и более",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "1.6\" - 2\"",
+            "value": "1.6\" - 2\"",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "2.1\" - 2.5\"",
+            "value": "2.1\" - 2.5\"",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "5.1 - 5.5\"",
+            "value": "5.1 - 5.5\"",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "до 1.5\"",
+            "value": "до 1.5\"",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "до 4.9\"",
+            "value": "до 4.9\"",
+            "selected": false,
+            "disabled": false
+          }
+        ]
+      },
+      {
+        "id": "Разрешение экрана",
+        "name": "Разрешение экрана",
+        "type": "CHECKBOX",
+        "options": [
+          {
+            "valueId": "320x240 Пикс",
+            "value": "320x240 Пикс",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "160x128 Пикс",
+            "value": "160x128 Пикс",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "480x320 Пикс",
+            "value": "480x320 Пикс",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "64x128 Пикс",
+            "value": "64x128 Пикс",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "176x220 Пикс",
+            "value": "176x220 Пикс",
+            "selected": false,
+            "disabled": false
+          }
+        ]
+      },
+      {
+        "id": "Поддержка стандартов",
+        "name": "Поддержка стандартов",
+        "type": "CHECKBOX",
+        "options": [
+          {
+            "valueId": "GSM 2G",
+            "value": "GSM 2G",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "GSM 2G/3G/4G(LTE)",
+            "value": "GSM 2G/3G/4G(LTE)",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "GSM 2G/3G",
+            "value": "GSM 2G/3G",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "GSM 2G/4G(LTE)",
+            "value": "GSM 2G/4G(LTE)",
+            "selected": false,
+            "disabled": false
+          }
+        ]
+      },
+      {
+        "id": "Bluetooth",
+        "name": "Bluetooth",
+        "type": "SWITCH",
+        "groupId": null,
+        "optionSwitch": {
+          "valueId": "Да",
+          "value": "Да",
+          "disabled": false,
+          "selected": false
+        }
+      },
+      {
+        "id": "FM приемник",
+        "name": "FM приемник",
+        "type": "CHECKBOX",
+        "options": [
+          {
+            "valueId": "встроенный",
+            "value": "встроенный",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "дополнительная опция",
+            "value": "дополнительная опция",
+            "selected": false,
+            "disabled": false
+          }
+        ]
+      },
+      {
+        "id": "Тип карты памяти",
+        "name": "Тип карты памяти",
+        "type": "CHECKBOX",
+        "options": [
+          {
+            "valueId": "да",
+            "value": "да",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "microSD",
+            "value": "microSD",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "отсутствует",
+            "value": "отсутствует",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "microSDHC",
+            "value": "microSDHC",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Micro SD/ Micro SDHC/ Micro SDXC",
+            "value": "Micro SD/ Micro SDHC/ Micro SDXC",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "MS microM2, microSD",
+            "value": "MS microM2, microSD",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "SD",
+            "value": "SD",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "T-Flash, microSD",
+            "value": "T-Flash, microSD",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "MMC, microSD",
+            "value": "MMC, microSD",
+            "selected": false,
+            "disabled": false
+          }
+        ]
+      },
+      {
+        "id": "Ударопрочный корпус",
+        "name": "Ударопрочный корпус",
+        "type": "CHECKBOX",
+        "options": [
+          {
+            "valueId": "Нет",
+            "value": "Нет",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Да",
+            "value": "Да",
+            "selected": false,
+            "disabled": false
+          }
+        ]
+      },
+      {
+        "id": "Тип матрицы экрана",
+        "name": "Тип матрицы экрана",
+        "type": "CHECKBOX",
+        "options": [
+          {
+            "valueId": "TFT",
+            "value": "TFT",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "TN",
+            "value": "TN",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "IPS",
+            "value": "IPS",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "QVGA",
+            "value": "QVGA",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "IPS+",
+            "value": "IPS+",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "отсутствует",
+            "value": "отсутствует",
+            "selected": false,
+            "disabled": false
+          }
+        ]
+      },
+      {
+        "id": "Вес",
+        "name": "Вес",
+        "type": "CHECKBOX",
+        "options": [
+          {
+            "valueId": "150 - 200 г",
+            "value": "150 - 200 г",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "Более 200 г",
+            "value": "Более 200 г",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "менее 100 г",
+            "value": "менее 100 г",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "100 - 150",
+            "value": "100 - 150",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "До 150 г",
+            "value": "До 150 г",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "более 150 г",
+            "value": "более 150 г",
+            "selected": false,
+            "disabled": false
+          }
+        ]
+      },
+      {
+        "id": "Цвет",
+        "name": "Цвет",
+        "type": "CHECKBOX",
+        "options": [
+          {
+            "valueId": "черный",
+            "value": "черный",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "другие цвета",
+            "value": "другие цвета",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "синий",
+            "value": "синий",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "белый",
+            "value": "белый",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "голубой",
+            "value": "голубой",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "зеленый",
+            "value": "зеленый",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "серебристый",
+            "value": "серебристый",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "серый",
+            "value": "серый",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "фиолетовый",
+            "value": "фиолетовый",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "золотой",
+            "value": "золотой",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "розовый",
+            "value": "розовый",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "бежевый",
+            "value": "бежевый",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "красный",
+            "value": "красный",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "графитовый",
+            "value": "графитовый",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "желтый",
+            "value": "желтый",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "розовое золото",
+            "value": "розовое золото",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "стальной/серебро",
+            "value": "стальной/серебро",
+            "selected": false,
+            "disabled": false
+          },
+          {
+            "valueId": "серый космос",
+            "value": "серый космос",
+            "selected": false,
+            "disabled": false
+          }
+        ]
+      }
+    ],
+    "title": "телефон"
+  }
+}

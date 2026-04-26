@@ -1,0 +1,1286 @@
+{
+  "success": true,
+  "messages": [],
+  "body": {
+    "desktop": {
+      "content": [
+        {
+          "blocks": [
+            {
+              "id": "93b22712-493c-4428-8d79-71b8c4e0dc18",
+              "type": "main-page:components/web/product-sets",
+              "title": "Хиты продаж",
+              "options": {
+                "prodSetTag": ["hits"],
+                "bgColor": "#ffffff",
+                "showBackground": false,
+                "productCardOptions": {
+                  "isActionsLabelDisplayed": true,
+                  "isCartButtonDisplayed": true,
+                  "isCampareIconDisplayed": true,
+                  "isCreditInfoDisplayed": true,
+                  "isDigitalLabelDisplayed": true,
+                  "isDiscountLabelDisplayed": true,
+                  "isFavoriteIconDisplayed": true,
+                  "isOldPriceDisplayed": true,
+                  "isRatingDisplayed": true,
+                  "isBonusInfoDisplayed": true,
+                  "isProductStatusDisplayed": false
+                },
+                "cardBackground": {},
+                "scrollOrientation": "horizontal"
+              }
+            }
+          ],
+          "containerId": "93b22712-493c-4428-8d79-71b8c4e0dc18",
+          "containerType": "main-page:components/web/product-sets",
+          "options": {}
+        },
+        {
+          "blocks": [],
+          "containerId": "9b3d7c99-0580-485b-9900-1fb1d924fc64",
+          "containerType": "main-page:components/web/personal-block-auth-user",
+          "options": {}
+        },
+        {
+          "blocks": [],
+          "containerId": "b1f7ef4e-9622-4491-a6d7-f9dab04e2982",
+          "containerType": "main-page:components/web/personal-block-guest",
+          "options": {}
+        },
+        {
+          "blocks": [
+            {
+              "id": "5a17af07-69c8-40e8-a978-1405b0e8f022",
+              "type": "main-page:components/web/you-watched",
+              "icon": null,
+              "title": "Вы смотрели",
+              "options": {
+                "cardBackground": {}
+              }
+            }
+          ],
+          "containerId": "5a17af07-69c8-40e8-a978-1405b0e8f022",
+          "containerType": "main-page:components/web/you-watched",
+          "options": {}
+        },
+        {
+          "blocks": [
+            {
+              "id": "bb81d7b8-65be-448e-a734-22604be83c62",
+              "type": "main-page:components/web/our-advantages",
+              "icon": null,
+              "title": "Наши преимущества",
+              "options": {
+                "advantagesList": [
+                  {
+                    "name": "Удобная доставка",
+                    "link": "/deliverypage?from=homepage",
+                    "icon": "//static.mvideo.ru/media/Assets/facelift/img/icon/svg/101024/udobnaya-dostavka.svg",
+                    "backgroundColor": "#f5f5f6"
+                  },
+                  {
+                    "name": "Подписка М.Комбо",
+                    "link": "/mcombo?from=our_advantages",
+                    "icon": "//static.mvideo.ru/media/Assets/facelift/img/icon/svg/101024/mcombo.svg",
+                    "backgroundColor": "#f5f5f6"
+                  }
+                ],
+                "showAll": {
+                  "url": "https://www.mvideo.ru/promo/preimushhestva-internet-magazina",
+                  "title": "Посмотреть все"
+                }
+              }
+            }
+          ],
+          "containerId": "bb81d7b8-65be-448e-a734-22604be83c62",
+          "containerType": "main-page:components/web/our-advantages",
+          "options": {}
+        }
+      ]
+    },
+    "mobile": {
+      "content": [
+        {
+          "blocks": [
+            {
+              "id": "3dbc7cfd-8d08-4396-80c4-8c33048acda1",
+              "type": "main-page:components/mWeb/notifications",
+              "icon": null,
+              "options": {
+                "tags": ["not1", "not2", "not3"]
+              }
+            }
+          ],
+          "containerId": "3dbc7cfd-8d08-4396-80c4-8c33048acda1",
+          "containerType": "main-page:components/mWeb/notifications",
+          "options": {}
+        },
+        {
+          "containerId": "c8c93776-e96d-43a4-9ce9-63ede73c6339",
+          "containerType": "main-page:components/mWeb/inappstory-stories",
+          "options": {
+            "feed": "default"
+          }
+        },
+        {
+          "blocks": [
+            {
+              "id": "25fc03be-77a0-44e2-960e-9c0037997e16",
+              "type": "main-page:components/mWeb/personal-block-auth-user-active-order-widget",
+              "icon": {
+                "name": "check-active"
+              },
+              "options": {
+                "icon": {
+                  "name": "check-active"
+                },
+                "background": {
+                  "color": "white",
+                  "imageUrl": null
+                }
+              }
+            },
+            {
+              "id": "c3647e68-443d-4926-a9ab-40f7f95eee33",
+              "type": "main-page:components/mWeb/personal-block-auth-user-mlimit-widget",
+              "iconUrl": "jcr:c9bb020c-2979-402c-a50d-ab6f71477db4",
+              "options": {
+                "titleActive": "₽",
+                "titleInactive": "М.Рассрочка",
+                "textActive": "Одобрено в М.Рассрочку",
+                "textInactive": "Узнать свой лимит",
+                "titleModalActive": "Как покупать с M.Рассрочкой?",
+                "titleModalInactive": "Узнать свой лимит",
+                "textButtonActive": "Перейти к покупкам",
+                "textButtonInactive": "Перейти к оформлению",
+                "bannerModalActiveUrl": "jcr:2dbb80b3-37dd-4a12-bc9a-cfcd09b9c1b3",
+                "bannerModalInactiveUrl": "jcr:2dbb80b3-37dd-4a12-bc9a-cfcd09b9c1b3",
+                "instructionActive": [
+                  "Выбери любой товар из каталога М.Видео, доступный к оплате в рассрочку.",
+                  "При оформлении на корзине выбери «В рассрочку или частями».",
+                  "Подпиши договор кодом из СМС и соверши покупку.",
+                  "Вся информация о лимите появится в Личном кабинете на сайте."
+                ],
+                "instructionInactive": [
+                  "<b>Заполни небольшую анкету</b><br/>Это займет всего несколько минут. Тебе потребуются паспортные данные",
+                  "<b>Подтверди телефон</b><br/>Отправим код по СМС",
+                  "<b>Получи одобрение</b><br/>Сумма одобренного лимита М.Рассрочка отобразится на странице Предложения"
+                ]
+              }
+            },
+            {
+              "id": "0adc8017-af24-4244-87b7-3c0f0fc5ca02",
+              "type": "main-page:components/mWeb/personal-block-auth-user-loyalty-widget",
+              "icon": {},
+              "options": {
+                "icon": {}
+              }
+            },
+            {
+              "id": "bfb000de-c046-4566-8095-ddd22ae1ac1e",
+              "type": "main-page:components/mWeb/personal-block-mcombo-widget",
+              "title": "Подписка М.Комбо",
+              "icon": {
+                "name": "gift",
+                "color": "#DE231E"
+              },
+              "options": {
+                "url": "mcombo?from=persblok",
+                "titleInactive": "Максимум выгоды в подписке М.Комбо"
+              },
+              "description": "Действует до ${endDate}"
+            },
+            {
+              "id": "f8dbbcd2-d186-4513-948c-216d2d1d0d59",
+              "type": "main-page:components/mWeb/personal-block-auth-user-promo-codes-widget",
+              "title": "Все промокоды в одном месте",
+              "icon": {},
+              "options": {
+                "url": "/promocodes"
+              }
+            }
+          ],
+          "containerId": "a7cefcc6-ca3f-4efc-9b93-b2ae0257446e",
+          "containerType": "main-page:components/mWeb/personal-block-auth-user",
+          "options": {
+            "title": "{firstName} {lastName}, добрый день!",
+            "background": {
+              "color": null,
+              "imageUrl": null
+            },
+            "icon": {
+              "name": "profile"
+            },
+            "button": null,
+            "personalNews": {
+              "containerId": null,
+              "containerType": null,
+              "title": "Новости, обзоры - M.Mag",
+              "icon": {},
+              "background": {
+                "color": "white",
+                "imageUrl": null
+              },
+              "news": {
+                "style": null,
+                "title": "Все новости и обзоры",
+                "description": "Мы сами тестируем, снимаем \nвидео про товары которые \nпродаем.",
+                "icon": null,
+                "link": "news",
+                "url": null
+              },
+              "personalActions": {
+                "containerId": null,
+                "containerType": null,
+                "title": "Самые выгодные акции",
+                "icon": null,
+                "background": {
+                  "color": "white",
+                  "imageUrl": null
+                },
+                "actions": {
+                  "style": null,
+                  "title": "Все акции",
+                  "description": "Мы собрали подборку выгодных \nакций. Всем нравится!",
+                  "icon": null,
+                  "link": "promoList",
+                  "url": null
+                }
+              },
+              "personalHelp": {
+                "containerId": null,
+                "containerType": null,
+                "title": "Нужна помощь?",
+                "icon": null,
+                "background": {
+                  "color": "white",
+                  "imageUrl": null
+                },
+                "help": {
+                  "style": null,
+                  "title": null,
+                  "description": "Напишите нам в мессенджерах. Мы постараемся вам помочь!",
+                  "icon": null,
+                  "link": "help",
+                  "url": null
+                },
+                "whatsapp": {
+                  "style": null,
+                  "title": null,
+                  "description": null,
+                  "icon": "whatsapp",
+                  "link": null,
+                  "url": "https://wa.me/79626007775"
+                },
+                "telegram": {
+                  "style": null,
+                  "title": null,
+                  "description": null,
+                  "icon": "telegram",
+                  "link": null,
+                  "url": "tg://resolve?domain=mvideo_official_bot"
+                },
+                "chat": {
+                  "style": null,
+                  "title": null,
+                  "description": null,
+                  "icon": "chat",
+                  "link": "chat",
+                  "url": null
+                }
+              }
+            },
+            "personalActions": null,
+            "personalHelp": null,
+            "simpleWidgets": [
+              {
+                "title": "Трейд-ин / Выкуп смартфонов",
+                "icon": {
+                  "name": "trade-in"
+                },
+                "iconUrl": "https://cms.mvideo.ru/magnoliaPublic/dam/jcr:6f17e57d-8038-4f9d-866b-26691abfe476",
+                "url": "https://www.mvideo.ru/promo/obmen-starogo-gadzheta-na-skidku-ili-dengi?from=widget"
+              },
+              {
+                "title": "М.Мастер<br>Установка. Ремонт",
+                "icon": {
+                  "name": "mmaster"
+                },
+                "iconUrl": "https://cms.mvideo.ru/magnoliaPublic/dam/jcr:8774e877-deb8-4160-8456-64c73ac985e1",
+                "url": "https://www.mvideo.ru/info/mmaster-service?from=widget"
+              },
+              {
+                "title": "Работа в М.Видео",
+                "icon": {
+                  "name": "hr"
+                },
+                "iconUrl": "https://cms.mvideo.ru/magnoliaPublic/dam/jcr:c90cbe57-636a-4e50-a66b-7ccc97d47178",
+                "url": "https://career.mvideoeldorado.ru?from=banner"
+              },
+              {
+                "title": "Экспресс-доставка от 2 часов",
+                "icon": {
+                  "name": "express-delivery"
+                },
+                "url": "https://www.mvideo.ru/promotion/bystraya-dostavka?from=widget"
+              },
+              {
+                "title": "Закажи и забери заказ через 15 минут",
+                "icon": {
+                  "name": "express-pickup"
+                },
+                "iconUrl": "https://cms.mvideo.ru/magnoliaPublic/dam/jcr:e9f0f799-91f9-48d7-81a0-7d10c3c30db1",
+                "url": "https://www.mvideo.ru/pickup?from=widget"
+              },
+              {
+                "title": "7 дней на обмен или возврат товара",
+                "icon": {
+                  "name": "settings"
+                },
+                "url": "https://www.mvideo.ru/info/exchange?from=widget"
+              },
+              {
+                "title": "Мои финансы",
+                "icon": {
+                  "name": "installment"
+                },
+                "url": "https://www.mvideo.ru/promo/moi-finansy?from=widget"
+              },
+              {
+                "title": "Открытые магазины в вашем городе",
+                "icon": {
+                  "name": "store"
+                },
+                "url": "https://www.mvideo.ru/shops/store-list?from=widget"
+              },
+              {
+                "title": "Пункты выдачи",
+                "icon": {
+                  "name": "pvz"
+                },
+                "iconUrl": "https://cms.mvideo.ru/magnoliaPublic/dam/jcr:8bf62a96-852d-493c-af0f-9c5d104ca985",
+                "url": "https://www.mvideo.ru/promo/pvz?from=widget"
+              },
+              {
+                "title": "Страхование техники",
+                "icon": {
+                  "name": "insurance-protection"
+                },
+                "url": "https://www.mvideo.ru/promo/strahovye-uslugi?from=widget"
+              }
+            ]
+          }
+        },
+        {
+          "blocks": [
+            {
+              "id": "2ae8f951-6d85-40c4-bc90-aaac21b886ac",
+              "type": "main-page:components/mWeb/personal-block-guest-widget",
+              "title": "Авторизуйся, чтобы применить бонусы",
+              "icon": {
+                "name": "promo_label"
+              },
+              "options": {
+                "title": "Авторизуйся, чтобы применить бонусы",
+                "icon": {
+                  "name": "promo_label"
+                },
+                "background": {
+                  "color": null,
+                  "imageUrl": null
+                },
+                "isAuthWidget": false,
+                "noAuth": {
+                  "style": null,
+                  "icon": {
+                    "name": "promo_label"
+                  },
+                  "link": "auth",
+                  "url": "https://www.mvideo.ru/login?from=widget"
+                }
+              }
+            },
+            {
+              "id": "c7b4f094-e37a-499d-83d9-91f930f5ead2",
+              "type": "main-page:components/mWeb/personal-block-guest-mcombo-widget",
+              "title": "Максимум выгоды в подписке М.Комбо",
+              "icon": {
+                "name": "gift",
+                "color": "#DE231E"
+              },
+              "options": {
+                "url": "mcombo?from=persblok"
+              }
+            },
+            {
+              "id": "c7d72fc1-0a52-4206-aa1d-9e78f0cb3e4a",
+              "type": "main-page:components/mWeb/personal-block-guest-widget",
+              "title": "Все промокоды в одном месте",
+              "icon": {
+                "name": "promo-code"
+              },
+              "options": {
+                "title": "Все промокоды в одном месте",
+                "icon": {
+                  "name": "promo-code"
+                },
+                "isAuthWidget": true,
+                "noAuth": {
+                  "icon": {
+                    "name": "promo-code"
+                  }
+                }
+              }
+            },
+            {
+              "id": "bbc43e86-bc59-4b7a-940d-5ccb677ba24e",
+              "type": "main-page:components/mWeb/personal-block-guest-widget",
+              "title": "Трейд-ин / Выкуп смартфонов",
+              "icon": {
+                "name": "trade-in"
+              },
+              "iconUrl": "jcr:6f17e57d-8038-4f9d-866b-26691abfe476",
+              "options": {
+                "title": "Трейд-ин / Выкуп смартфонов",
+                "icon": {
+                  "name": "trade-in"
+                },
+                "iconUrl": "jcr:6f17e57d-8038-4f9d-866b-26691abfe476",
+                "background": {
+                  "color": null,
+                  "imageUrl": null
+                },
+                "isAuthWidget": false,
+                "noAuth": {
+                  "style": null,
+                  "icon": {
+                    "name": "trade-in"
+                  },
+                  "link": null,
+                  "url": "https://www.mvideo.ru/promo/obmen-starogo-gadzheta-na-skidku-ili-dengi?from=widget"
+                }
+              }
+            },
+            {
+              "id": "0d5b8e44-318a-496f-85aa-349749fdab70",
+              "type": "main-page:components/mWeb/personal-block-guest-widget",
+              "title": "М.Мастер<br>Установка. Ремонт",
+              "icon": {
+                "name": "mmaster"
+              },
+              "iconUrl": "jcr:8774e877-deb8-4160-8456-64c73ac985e1",
+              "options": {
+                "title": "М.Мастер<br>Установка. Ремонт",
+                "icon": {
+                  "name": "mmaster"
+                },
+                "iconUrl": "jcr:8774e877-deb8-4160-8456-64c73ac985e1",
+                "background": {
+                  "color": null,
+                  "imageUrl": null
+                },
+                "isAuthWidget": false,
+                "noAuth": {
+                  "style": null,
+                  "icon": {
+                    "name": "mmaster"
+                  },
+                  "link": null,
+                  "url": "https://www.mvideo.ru/info/mmaster-service?from=widget"
+                }
+              }
+            },
+            {
+              "id": "716dc17d-fb7b-47b5-bfa9-fde6d266d7cd",
+              "type": "main-page:components/mWeb/personal-block-guest-widget",
+              "title": "Работа в М.Видео",
+              "icon": {
+                "name": "hr"
+              },
+              "iconUrl": "jcr:c90cbe57-636a-4e50-a66b-7ccc97d47178",
+              "options": {
+                "title": "Работа в М.Видео",
+                "icon": {
+                  "name": "hr"
+                },
+                "iconUrl": "jcr:c90cbe57-636a-4e50-a66b-7ccc97d47178",
+                "background": {
+                  "color": null,
+                  "imageUrl": null
+                },
+                "isAuthWidget": false,
+                "noAuth": {
+                  "style": null,
+                  "icon": {
+                    "name": "hr"
+                  },
+                  "link": null,
+                  "url": "https://career.mvideoeldorado.ru?from=banner"
+                }
+              }
+            },
+            {
+              "id": "b548ebf0-f7ab-487d-ad8f-0ed1d1d7a192",
+              "type": "main-page:components/mWeb/personal-block-guest-widget",
+              "title": "Экспресс-доставка от 2 часов",
+              "icon": {
+                "name": "express-delivery"
+              },
+              "options": {
+                "title": "Экспресс-доставка от 2 часов",
+                "icon": {
+                  "name": "express-delivery"
+                },
+                "background": {
+                  "color": null,
+                  "imageUrl": null
+                },
+                "isAuthWidget": false,
+                "noAuth": {
+                  "style": null,
+                  "icon": {
+                    "name": "express-delivery"
+                  },
+                  "link": null,
+                  "url": "https://www.mvideo.ru/promotion/bystraya-dostavka?from=widget"
+                }
+              }
+            },
+            {
+              "id": "ecfbd090-0a24-4989-a33f-6c672a6d03db",
+              "type": "main-page:components/mWeb/personal-block-guest-widget",
+              "title": "Закажи и забери заказ через 15 минут",
+              "icon": {
+                "name": "express-pickup"
+              },
+              "iconUrl": "jcr:e9f0f799-91f9-48d7-81a0-7d10c3c30db1",
+              "options": {
+                "title": "Закажи и забери заказ через 15 минут",
+                "icon": {
+                  "name": "express-pickup"
+                },
+                "iconUrl": "jcr:e9f0f799-91f9-48d7-81a0-7d10c3c30db1",
+                "background": {
+                  "color": null,
+                  "imageUrl": null
+                },
+                "isAuthWidget": false,
+                "noAuth": {
+                  "style": null,
+                  "icon": {
+                    "name": "express-pickup"
+                  },
+                  "link": null,
+                  "url": "https://www.mvideo.ru/pickup?from=widget"
+                }
+              }
+            },
+            {
+              "id": "6dd425bb-6d2b-4283-bf80-02a7dd0860cf",
+              "type": "main-page:components/mWeb/personal-block-guest-widget",
+              "title": "7 дней на обмен или возврат товара",
+              "icon": {
+                "name": "settings"
+              },
+              "options": {
+                "title": "7 дней на обмен или возврат товара",
+                "icon": {
+                  "name": "settings"
+                },
+                "background": {
+                  "color": null,
+                  "imageUrl": null
+                },
+                "isAuthWidget": false,
+                "noAuth": {
+                  "style": null,
+                  "icon": {
+                    "name": "settings"
+                  },
+                  "link": null,
+                  "url": "https://www.mvideo.ru/info/exchange?from=widget"
+                }
+              }
+            },
+            {
+              "id": "79e5652f-527f-489c-9cc8-49a1e816f155",
+              "type": "main-page:components/mWeb/personal-block-guest-widget",
+              "title": "Мои финансы",
+              "icon": {
+                "name": "installment"
+              },
+              "options": {
+                "title": "Мои финансы",
+                "icon": {
+                  "name": "installment"
+                },
+                "background": {
+                  "color": null,
+                  "imageUrl": null
+                },
+                "isAuthWidget": false,
+                "noAuth": {
+                  "style": null,
+                  "icon": {
+                    "name": "installment"
+                  },
+                  "link": null,
+                  "url": "https://www.mvideo.ru/promo/moi-finansy?from=widget"
+                }
+              }
+            },
+            {
+              "id": "a79430bb-a699-4a9c-98a4-684adb4bc97e",
+              "type": "main-page:components/mWeb/personal-block-guest-widget",
+              "title": "Открытые магазины в вашем городе",
+              "icon": {
+                "name": "store"
+              },
+              "options": {
+                "title": "Открытые магазины в вашем городе",
+                "icon": {
+                  "name": "store"
+                },
+                "background": {
+                  "color": null,
+                  "imageUrl": null
+                },
+                "isAuthWidget": false,
+                "noAuth": {
+                  "style": null,
+                  "icon": {
+                    "name": "store"
+                  },
+                  "link": null,
+                  "url": "https://www.mvideo.ru/shops/store-list?from=widget"
+                }
+              }
+            },
+            {
+              "id": "52593444-d6fd-4011-86a1-c11d9866fb21",
+              "type": "main-page:components/mWeb/personal-block-guest-widget",
+              "title": "Пункты выдачи",
+              "icon": {
+                "name": "pvz"
+              },
+              "iconUrl": "jcr:8bf62a96-852d-493c-af0f-9c5d104ca985",
+              "options": {
+                "title": "Пункты выдачи",
+                "icon": {
+                  "name": "pvz"
+                },
+                "iconUrl": "jcr:8bf62a96-852d-493c-af0f-9c5d104ca985",
+                "background": {
+                  "color": null,
+                  "imageUrl": null
+                },
+                "isAuthWidget": false,
+                "noAuth": {
+                  "style": null,
+                  "icon": {
+                    "name": "pvz"
+                  },
+                  "link": null,
+                  "url": "https://www.mvideo.ru/info/pvz?from=widget"
+                }
+              }
+            },
+            {
+              "id": "d2023215-1186-4b5e-bb02-2aaa56ab1fa2",
+              "type": "main-page:components/mWeb/personal-block-guest-widget",
+              "title": "Страхование техники",
+              "icon": {
+                "name": "insurance-protection"
+              },
+              "options": {
+                "title": "Страхование техники",
+                "icon": {
+                  "name": "insurance-protection"
+                },
+                "background": {
+                  "color": null,
+                  "imageUrl": null
+                },
+                "isAuthWidget": false,
+                "noAuth": {
+                  "style": null,
+                  "icon": {
+                    "name": "insurance-protection"
+                  },
+                  "link": null,
+                  "url": "https://www.mvideo.ru/promo/strahovye-uslugi?from=widget"
+                }
+              }
+            }
+          ],
+          "containerId": "1015ea72-81d5-4121-b19d-1cabd57132d0",
+          "containerType": "main-page:components/mWeb/personal-block-guest",
+          "options": {
+            "background": {
+              "color": null,
+              "imageUrl": null
+            },
+            "icon": {}
+          }
+        },
+        {
+          "blocks": [
+            {
+              "id": "004b189a-bb45-4da7-80f8-1bdad376f922",
+              "type": "main-page:components/mWeb/promo-actions",
+              "icon": null,
+              "title": "Промо-акции на главной странице",
+              "options": {
+                "timeout": "4",
+                "promoSet": "109454bb-38eb-4d3e-9363-1ee1e4030ee9",
+                "btn1Text": "Все акции",
+                "btn1Url": "https://www.mvideo.ru/vse-akcii",
+                "btn2Enable": false,
+                "btnAllActionsText": "Все акции",
+                "moreInfoText": "Подробнее",
+                "serviceCardTitle": "Заголовок1",
+                "showClose": false,
+                "showFavorites": false
+              }
+            },
+            {
+              "id": "5ed58b47-fb2a-40c1-946f-ac8ed8536754",
+              "type": "main-page:components/mWeb/daily-product-sets",
+              "icon": null,
+              "title": "Товары дня",
+              "options": {
+                "timeout": "300",
+                "prodSetTag": ["goodofday", "goodofday2"],
+                "isActivePeriodDisplayed": true,
+                "productCardOptions": {
+                  "isActionsLabelDisplayed": false,
+                  "isCartButtonDisplayed": true,
+                  "isCampareIconDisplayed": true,
+                  "isCreditInfoDisplayed": true,
+                  "isDigitalLabelDisplayed": true,
+                  "isDiscountLabelDisplayed": true,
+                  "isFavoriteIconDisplayed": true,
+                  "isOldPriceDisplayed": true,
+                  "isRatingDisplayed": true,
+                  "isBonusInfoDisplayed": true,
+                  "isProductStatusDisplayed": true
+                },
+                "cardBackground": {}
+              }
+            }
+          ],
+          "containerId": "shelfDaily_1",
+          "containerType": "shelfDaily",
+          "options": {}
+        },
+        {
+          "blocks": [
+            {
+              "id": "87e65f4c-cbe6-4663-829c-16441337b3ee",
+              "type": "main-page:components/mWeb/banners",
+              "icon": null,
+              "iconUrl": null,
+              "title": "banners (STORIES)",
+              "options": {
+                "title": "banners (STORIES)",
+                "timeout": 4,
+                "bannerTag": ["stories_banners"],
+                "scrollType": "cyclic",
+                "scrollIndicator": true
+              }
+            }
+          ],
+          "containerId": "87e65f4c-cbe6-4663-829c-16441337b3ee",
+          "containerType": "main-page:components/mWeb/banners",
+          "options": {}
+        },
+        {
+          "blocks": [
+            {
+              "id": "ce26b7bc-6fb7-4121-92fd-5e0726a1d686",
+              "type": "main-page:components/mWeb/product-sets",
+              "title": "Хиты продаж",
+              "options": {
+                "prodSetTag": ["hits"],
+                "bgColor": "#ffffff",
+                "showBackground": false,
+                "textColor": "#39393d",
+                "productCardOptions": {
+                  "isActionsLabelDisplayed": true,
+                  "isCartButtonDisplayed": true,
+                  "isCampareIconDisplayed": true,
+                  "isCreditInfoDisplayed": true,
+                  "isDigitalLabelDisplayed": true,
+                  "isDiscountLabelDisplayed": true,
+                  "isFavoriteIconDisplayed": true,
+                  "isOldPriceDisplayed": true,
+                  "isRatingDisplayed": true,
+                  "isBonusInfoDisplayed": true,
+                  "isProductStatusDisplayed": true
+                },
+                "cardBackground": {},
+                "scrollOrientation": "horizontal"
+              }
+            }
+          ],
+          "containerId": "ce26b7bc-6fb7-4121-92fd-5e0726a1d686",
+          "containerType": "main-page:components/mWeb/product-sets",
+          "options": {}
+        },
+        {
+          "blocks": [
+            {
+              "id": "6547df66-34d1-4157-bed7-484b7ad58420",
+              "type": "main-page:components/mWeb/product-sets",
+              "title": "Рекомендуем",
+              "options": {
+                "prodSetTag": ["partner", "extra-krasota", "nedeli-sams"],
+                "bgColor": "#ffffff",
+                "showBackground": false,
+                "textColor": "#39393d",
+                "productCardOptions": {
+                  "isActionsLabelDisplayed": true,
+                  "isCartButtonDisplayed": true,
+                  "isCampareIconDisplayed": true,
+                  "isCreditInfoDisplayed": true,
+                  "isDigitalLabelDisplayed": true,
+                  "isDiscountLabelDisplayed": true,
+                  "isFavoriteIconDisplayed": true,
+                  "isOldPriceDisplayed": true,
+                  "isRatingDisplayed": true,
+                  "isBonusInfoDisplayed": true,
+                  "isProductStatusDisplayed": true
+                },
+                "cardBackground": {},
+                "scrollOrientation": "horizontal"
+              }
+            }
+          ],
+          "containerId": "6547df66-34d1-4157-bed7-484b7ad58420",
+          "containerType": "main-page:components/mWeb/product-sets",
+          "options": {}
+        },
+        {
+          "blocks": [
+            {
+              "id": "375c7905-9047-47b5-af35-49a2d6504aec",
+              "type": "main-page:components/mWeb/popular-categories",
+              "title": "Популярные категории",
+              "options": {
+                "bgColor": "#f3f3f7"
+              }
+            }
+          ],
+          "containerId": "375c7905-9047-47b5-af35-49a2d6504aec",
+          "containerType": "main-page:components/mWeb/popular-categories",
+          "options": {}
+        },
+        {
+          "blocks": [
+            {
+              "id": "c5a882bf-37e2-4a81-bd35-9924f838636f",
+              "type": "main-page:components/mWeb/product-sets",
+              "title": "5 дней суперскидок",
+              "options": {
+                "prodSetTag": ["new_do"],
+                "bgColor": "#ffffff",
+                "showBackground": false,
+                "textColor": "#39393d",
+                "productCardOptions": {
+                  "isActionsLabelDisplayed": true,
+                  "isCartButtonDisplayed": true,
+                  "isCampareIconDisplayed": true,
+                  "isCreditInfoDisplayed": true,
+                  "isDigitalLabelDisplayed": true,
+                  "isDiscountLabelDisplayed": true,
+                  "isFavoriteIconDisplayed": true,
+                  "isOldPriceDisplayed": true,
+                  "isRatingDisplayed": true,
+                  "isBonusInfoDisplayed": true,
+                  "isProductStatusDisplayed": true
+                },
+                "cardBackground": {},
+                "scrollOrientation": "horizontal"
+              }
+            }
+          ],
+          "containerId": "c5a882bf-37e2-4a81-bd35-9924f838636f",
+          "containerType": "main-page:components/mWeb/product-sets",
+          "options": {}
+        },
+        {
+          "blocks": [
+            {
+              "id": "f55f70e5-4069-4fe4-b2fb-119c4bdbc945",
+              "type": "main-page:components/mWeb/product-sets",
+              "title": "Персональные рекомендации",
+              "options": {
+                "prodSetTag": ["Vam_ponravitsya"],
+                "bgColor": "#ffffff",
+                "showBackground": false,
+                "textColor": "#39393d",
+                "productCardOptions": {
+                  "isActionsLabelDisplayed": true,
+                  "isCartButtonDisplayed": true,
+                  "isCampareIconDisplayed": true,
+                  "isCreditInfoDisplayed": true,
+                  "isDigitalLabelDisplayed": true,
+                  "isDiscountLabelDisplayed": true,
+                  "isFavoriteIconDisplayed": true,
+                  "isOldPriceDisplayed": true,
+                  "isRatingDisplayed": true,
+                  "isBonusInfoDisplayed": true,
+                  "isProductStatusDisplayed": false
+                },
+                "cardBackground": {},
+                "pagination": {
+                  "offset": 0,
+                  "limit": 14
+                },
+                "scrollOrientation": "horizontal"
+              }
+            }
+          ],
+          "containerId": "f55f70e5-4069-4fe4-b2fb-119c4bdbc945",
+          "containerType": "main-page:components/mWeb/product-sets",
+          "options": {}
+        },
+        {
+          "blocks": [
+            {
+              "id": "3f86d0d1-fc51-459c-a2c0-6c59e337e437",
+              "type": "main-page:components/mWeb/banners",
+              "icon": null,
+              "iconUrl": null,
+              "title": "banners (PLP)",
+              "options": {
+                "title": "banners (PLP)",
+                "timeout": 4,
+                "bannerTag": ["main_banners"],
+                "scrollType": "cyclic",
+                "scrollIndicator": true
+              }
+            }
+          ],
+          "containerId": "3f86d0d1-fc51-459c-a2c0-6c59e337e437",
+          "containerType": "main-page:components/mWeb/banners",
+          "options": {}
+        },
+        {
+          "blocks": [
+            {
+              "id": "e31e458a-19ff-4f8b-85ab-6ab89ba58bfe",
+              "type": "main-page:components/mWeb/product-sets",
+              "options": {
+                "prodSetTag": ["Vam_ponravitsya"],
+                "bgColor": "#ffffff",
+                "showBackground": false,
+                "textColor": "#39393d",
+                "productCardOptions": {
+                  "isActionsLabelDisplayed": true,
+                  "isCartButtonDisplayed": true,
+                  "isCampareIconDisplayed": true,
+                  "isCreditInfoDisplayed": true,
+                  "isDigitalLabelDisplayed": true,
+                  "isDiscountLabelDisplayed": true,
+                  "isFavoriteIconDisplayed": true,
+                  "isOldPriceDisplayed": true,
+                  "isRatingDisplayed": true,
+                  "isBonusInfoDisplayed": true,
+                  "isProductStatusDisplayed": false
+                },
+                "cardBackground": {},
+                "pagination": {
+                  "offset": 14,
+                  "limit": 14
+                },
+                "scrollOrientation": "horizontal"
+              }
+            }
+          ],
+          "containerId": "e31e458a-19ff-4f8b-85ab-6ab89ba58bfe",
+          "containerType": "main-page:components/mWeb/product-sets",
+          "options": {}
+        },
+        {
+          "blocks": [
+            {
+              "id": "fbce370e-0edb-4e61-82d8-a6c1d990a125",
+              "type": "main-page:components/mWeb/product-sets",
+              "options": {
+                "prodSetTag": ["Vam_ponravitsya"],
+                "bgColor": "#ffffff",
+                "showBackground": false,
+                "textColor": "#39393d",
+                "productCardOptions": {
+                  "isActionsLabelDisplayed": true,
+                  "isCartButtonDisplayed": true,
+                  "isCampareIconDisplayed": true,
+                  "isCreditInfoDisplayed": true,
+                  "isDigitalLabelDisplayed": true,
+                  "isDiscountLabelDisplayed": true,
+                  "isFavoriteIconDisplayed": true,
+                  "isOldPriceDisplayed": true,
+                  "isRatingDisplayed": true,
+                  "isBonusInfoDisplayed": true,
+                  "isProductStatusDisplayed": false
+                },
+                "cardBackground": {},
+                "pagination": {
+                  "offset": 28,
+                  "limit": 150
+                },
+                "scrollOrientation": "horizontal"
+              }
+            }
+          ],
+          "containerId": "fbce370e-0edb-4e61-82d8-a6c1d990a125",
+          "containerType": "main-page:components/mWeb/product-sets",
+          "options": {}
+        },
+        {
+          "blocks": [
+            {
+              "id": "012f1757-39db-426c-be0e-213338fb15ff",
+              "type": "main-page:components/mWeb/product-sets",
+              "title": "Товары недели! Cкидки до 70%",
+              "options": {
+                "prodSetTag": ["extra-kitchen"],
+                "bgColor": "#ffffff",
+                "showBackground": false,
+                "textColor": "#39393d",
+                "productCardOptions": {
+                  "isActionsLabelDisplayed": true,
+                  "isCartButtonDisplayed": true,
+                  "isCampareIconDisplayed": true,
+                  "isCreditInfoDisplayed": true,
+                  "isDigitalLabelDisplayed": true,
+                  "isDiscountLabelDisplayed": true,
+                  "isFavoriteIconDisplayed": true,
+                  "isOldPriceDisplayed": true,
+                  "isRatingDisplayed": true,
+                  "isBonusInfoDisplayed": true,
+                  "isProductStatusDisplayed": true
+                },
+                "cardBackground": {},
+                "scrollOrientation": "horizontal"
+              }
+            }
+          ],
+          "containerId": "012f1757-39db-426c-be0e-213338fb15ff",
+          "containerType": "main-page:components/mWeb/product-sets",
+          "options": {}
+        },
+        {
+          "blocks": [
+            {
+              "id": "aa6ce615-b71a-485e-b5af-e679073326e0",
+              "type": "main-page:components/mWeb/product-sets-with-switch",
+              "title": "Рекомендуем",
+              "options": {
+                "productsVerticalLimit": null,
+                "bgColor": "#ffffff",
+                "showBackground": false,
+                "scrollOrientation": "horizontal",
+                "textColor": "#1a1a1a",
+                "prodSetTag": [
+                  "remont",
+                  "rassrochka",
+                  "red-price",
+                  "extra-smartphone",
+                  "sams-tv"
+                ],
+                "switchSettings": {
+                  "switchBorderColor": "#1a1a1a",
+                  "switchTextColor": "#1a1a1a",
+                  "switchActiveTextColor": "#ffffff",
+                  "switchActiveBackgroundColor": "#1a1a1a"
+                },
+                "productCardOptions": {
+                  "isActionsLabelDisplayed": true,
+                  "isCartButtonDisplayed": true,
+                  "isCampareIconDisplayed": true,
+                  "isCreditInfoDisplayed": true,
+                  "isDigitalLabelDisplayed": true,
+                  "isDiscountLabelDisplayed": true,
+                  "isFavoriteIconDisplayed": true,
+                  "isOldPriceDisplayed": true,
+                  "isRatingDisplayed": true,
+                  "isBonusInfoDisplayed": true,
+                  "isProductStatusDisplayed": false
+                },
+                "cardBackground": {}
+              }
+            }
+          ],
+          "containerId": "aa6ce615-b71a-485e-b5af-e679073326e0",
+          "containerType": "main-page:components/mWeb/product-sets-with-switch",
+          "options": {}
+        },
+        {
+          "blocks": [
+            {
+              "id": "06f3a40f-8c1a-4620-8fe8-308d16e95935",
+              "type": "main-page:components/mWeb/product-sets-with-switch",
+              "title": "Не пропустите",
+              "options": {
+                "productsVerticalLimit": null,
+                "bgColor": "#ffffff",
+                "showBackground": false,
+                "scrollOrientation": "horizontal",
+                "textColor": "#1a1a1a",
+                "prodSetTag": ["mostviewed", "newgoods", "onlymv", "klimat"],
+                "switchSettings": {
+                  "switchBorderColor": "#1a1a1a",
+                  "switchTextColor": "#1a1a1a",
+                  "switchActiveTextColor": "#ffffff",
+                  "switchActiveBackgroundColor": "#1a1a1a"
+                },
+                "productCardOptions": {
+                  "isActionsLabelDisplayed": true,
+                  "isCartButtonDisplayed": true,
+                  "isCampareIconDisplayed": true,
+                  "isCreditInfoDisplayed": true,
+                  "isDigitalLabelDisplayed": true,
+                  "isDiscountLabelDisplayed": true,
+                  "isFavoriteIconDisplayed": true,
+                  "isOldPriceDisplayed": true,
+                  "isRatingDisplayed": true,
+                  "isBonusInfoDisplayed": true,
+                  "isProductStatusDisplayed": true
+                },
+                "cardBackground": {}
+              }
+            }
+          ],
+          "containerId": "06f3a40f-8c1a-4620-8fe8-308d16e95935",
+          "containerType": "main-page:components/mWeb/product-sets-with-switch",
+          "options": {}
+        },
+        {
+          "blocks": [
+            {
+              "id": "34520042-bee2-4dff-93d3-e157af5c5a3d",
+              "type": "main-page:components/mWeb/product-sets-with-switch",
+              "title": "Техника для дома",
+              "options": {
+                "productsVerticalLimit": null,
+                "bgColor": "#ffffff",
+                "showBackground": false,
+                "scrollOrientation": "horizontal",
+                "textColor": "#1a1a1a",
+                "prodSetTag": [
+                  "extra-pilesosy",
+                  "extra-holodilniky",
+                  "newsmart"
+                ],
+                "switchSettings": {
+                  "switchBorderColor": "#1a1a1a",
+                  "switchTextColor": "#1a1a1a",
+                  "switchActiveTextColor": "#ffffff",
+                  "switchActiveBackgroundColor": "#1a1a1a"
+                },
+                "productCardOptions": {
+                  "isActionsLabelDisplayed": true,
+                  "isCartButtonDisplayed": true,
+                  "isCampareIconDisplayed": true,
+                  "isCreditInfoDisplayed": true,
+                  "isDigitalLabelDisplayed": true,
+                  "isDiscountLabelDisplayed": true,
+                  "isFavoriteIconDisplayed": true,
+                  "isOldPriceDisplayed": true,
+                  "isRatingDisplayed": true,
+                  "isBonusInfoDisplayed": true,
+                  "isProductStatusDisplayed": false
+                },
+                "cardBackground": {}
+              }
+            }
+          ],
+          "containerId": "34520042-bee2-4dff-93d3-e157af5c5a3d",
+          "containerType": "main-page:components/mWeb/product-sets-with-switch",
+          "options": {}
+        },
+        {
+          "blocks": [
+            {
+              "id": "604fc787-f74c-4432-9c61-494ce1e879d7",
+              "type": "main-page:components/mWeb/product-sets-with-switch",
+              "title": "Скидки и распродажи",
+              "options": {
+                "productsVerticalLimit": null,
+                "bgColor": "#ffffff",
+                "showBackground": false,
+                "scrollOrientation": "horizontal",
+                "textColor": "#1a1a1a",
+                "prodSetTag": ["popsmart", "extra-powerbank"],
+                "switchSettings": {
+                  "switchBorderColor": "#1a1a1a",
+                  "switchTextColor": "#1a1a1a",
+                  "switchActiveTextColor": "#ffffff",
+                  "switchActiveBackgroundColor": "#1a1a1a"
+                },
+                "productCardOptions": {
+                  "isActionsLabelDisplayed": true,
+                  "isCartButtonDisplayed": true,
+                  "isCampareIconDisplayed": true,
+                  "isCreditInfoDisplayed": true,
+                  "isDigitalLabelDisplayed": true,
+                  "isDiscountLabelDisplayed": true,
+                  "isFavoriteIconDisplayed": true,
+                  "isOldPriceDisplayed": true,
+                  "isRatingDisplayed": true,
+                  "isBonusInfoDisplayed": true,
+                  "isProductStatusDisplayed": false
+                },
+                "cardBackground": {}
+              }
+            }
+          ],
+          "containerId": "604fc787-f74c-4432-9c61-494ce1e879d7",
+          "containerType": "main-page:components/mWeb/product-sets-with-switch",
+          "options": {}
+        },
+        {
+          "blocks": [
+            {
+              "id": "51894aac-a794-4269-99a5-4b62e716b142",
+              "type": "main-page:components/mWeb/product-sets",
+              "title": "Немецкий бренд Carrera",
+              "options": {
+                "prodSetTag": ["сarrera"],
+                "bgColor": "#ffffff",
+                "showBackground": false,
+                "textColor": "#39393d",
+                "productCardOptions": {
+                  "isActionsLabelDisplayed": false,
+                  "isCartButtonDisplayed": false,
+                  "isCampareIconDisplayed": false,
+                  "isCreditInfoDisplayed": false,
+                  "isDigitalLabelDisplayed": false,
+                  "isDiscountLabelDisplayed": false,
+                  "isFavoriteIconDisplayed": false,
+                  "isOldPriceDisplayed": false,
+                  "isRatingDisplayed": false,
+                  "isBonusInfoDisplayed": false,
+                  "isProductStatusDisplayed": false
+                },
+                "cardBackground": {},
+                "scrollOrientation": "horizontal"
+              }
+            }
+          ],
+          "containerId": "51894aac-a794-4269-99a5-4b62e716b142",
+          "containerType": "main-page:components/mWeb/product-sets",
+          "options": {}
+        }
+      ]
+    },
+    "notifications": {
+      "mobile": [],
+      "desktop": []
+    },
+    "dataPromoSet": []
+  }
+}

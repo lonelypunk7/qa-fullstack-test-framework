@@ -1,0 +1,4123 @@
+{
+  "success": true,
+  "messages": [],
+  "body": {
+    "items": [
+      {
+        "id": "74c98a6f-4208-4da1-b76f-10436f0afce2",
+        "name": "Хиты продаж",
+        "products": [
+          "400747759"
+        ],
+        "buttonSettings": {
+          "text": "Смотреть всё",
+          "textColor": "#39393d",
+          "visible": true
+        },
+        "isPersonalSource": false
+      }
+    ],
+    "list": [
+      {
+        "productId": "400747759",
+        "name": "Аэрогриль FELFRI FF-AF-03",
+        "nameTranslit": "aerogril-felfri-ff-af-03",
+        "productType": "ZCON",
+        "usedProductType": null,
+        "materialCisNumber": "400747759",
+        "materialSource": "shelf",
+        "modelName": "FF-AF-03",
+        "rating": {
+          "star": 4.95,
+          "count": 83,
+          "percent": null
+        },
+        "supplier": {
+          "id": "K000071169",
+          "name": "ООО \"ФЭЛФРИ\"",
+          "address": "109548, Москва, Шоссейная, 1",
+          "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+          "ogrn": "1227700780086",
+          "inn": "9723177920",
+          "phone": "+79083491115"
+        },
+        "vendorCatalog": null,
+        "sublicense": false,
+        "saleLegal": false,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "weight": 11.5,
+        "image": "Big/400747759bb.jpg",
+        "brandId": "34413",
+        "brandName": "FELFRI",
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isPrepayment": false,
+          "isCannotBeExchanged": false
+        },
+        "category": {
+          "id": "764",
+          "name": "Аэрогрили"
+        },
+        "groups": [
+          {
+            "name": "Мелкая кухонная техника",
+            "groupId": "16160",
+            "seoId": "3",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Грили",
+            "groupId": "16161",
+            "seoId": "198",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "Аэрогрили",
+            "groupId": "16205",
+            "seoId": "764",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "properties": {
+          "key": [
+            {
+              "name": "Чаша",
+              "priority": 1,
+              "properties": [
+                {
+                  "id": 2031,
+                  "name": "Объем чаши",
+                  "value": "5.5",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 1,
+                  "measure": "л"
+                }
+              ]
+            },
+            {
+              "name": "Управление",
+              "priority": 2,
+              "properties": [
+                {
+                  "id": 612895,
+                  "name": "Количество автоматических программ",
+                  "value": "8",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 2,
+                  "measure": null
+                },
+                {
+                  "id": 85,
+                  "name": "Тип управления",
+                  "value": "сенсорное",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 3,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Корпус",
+              "priority": 5,
+              "properties": [
+                {
+                  "id": 714,
+                  "name": "Антипригарное покрытие",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 5,
+                  "measure": null
+                },
+                {
+                  "id": 896,
+                  "name": "Нагревательный элемент",
+                  "value": "ТЭН",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 8,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Функции",
+              "priority": 6,
+              "properties": [
+                {
+                  "id": 3242,
+                  "name": "Автоподдержание температуры нагрева",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 6,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Таймер",
+              "priority": 7,
+              "properties": [
+                {
+                  "id": 1515,
+                  "name": "Таймер продолжительности работы",
+                  "value": "до 1 часа",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 7,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Вес",
+              "priority": 9,
+              "properties": [
+                {
+                  "id": 91,
+                  "name": "Вес",
+                  "value": "8.2",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 9,
+                  "measure": "кг"
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "images": [
+          "Big/400747759bb.jpg",
+          "Big/400747759bb1.jpg",
+          "Big/400747759bb2.jpg",
+          "Big/400747759bb3.jpg",
+          "Big/400747759bb4.jpg",
+          "Big/400747759bb5.jpg",
+          "Big/400747759bb6.jpg",
+          "Big/400747759bb7.jpg",
+          "Big/400747759bb8.jpg",
+          "Big/400747759bb9.jpg",
+          "Big/400747759bb10.jpg",
+          "Big/400747759bb11.jpg"
+        ]
+      },
+      {
+        "productId": "4270210",
+        "name": "Стайлер Dyson Airwrap Co-Anda 2x HS09 розовое золото",
+        "nameTranslit": "stailer-dyson-airwrap-co-anda-2x-hs09-rozovoe-zoloto",
+        "productType": "ZCON",
+        "usedProductType": null,
+        "materialCisNumber": "4270210",
+        "materialSource": "ERP",
+        "modelName": "Airwrap Co-Anda 2x HS09 розовое золото",
+        "rating": {
+          "star": 5,
+          "count": 1,
+          "percent": null
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "saleLegal": true,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "weight": 3.8,
+        "image": "Pdb/4270210b.jpg",
+        "brandId": "937",
+        "brandName": "Dyson",
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isPrepayment": false,
+          "isCannotBeExchanged": false
+        },
+        "category": {
+          "id": "4967",
+          "name": "Мультистайлеры"
+        },
+        "groups": [
+          {
+            "name": "Товары для укладки волос",
+            "groupId": "17668",
+            "seoId": "4887",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Электрощипцы",
+            "groupId": "17672",
+            "seoId": "4892",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "Мультистайлеры",
+            "groupId": "17692",
+            "seoId": "4967",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "properties": {
+          "key": [
+            {
+              "name": "Заводские данные",
+              "priority": 1,
+              "properties": [
+                {
+                  "id": 5554,
+                  "name": "Страна",
+                  "value": "Филиппины",
+                  "nameDescription": "Допускается отличие страны-изготовителя, указанной в характеристиках.\nЛинии производства могут находиться в нескольких государствах. \nЭто не влияет на качество изготовления техники: все заводы данного бренда работают по общим стандартам, а готовые изделия проходят соответствующий контроль.",
+                  "valueDescription": null,
+                  "priority": 1,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Электропитание",
+              "priority": 4,
+              "properties": [
+                {
+                  "id": 152,
+                  "name": "Потребляемая мощность",
+                  "value": "1700",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 4,
+                  "measure": "Вт"
+                },
+                {
+                  "id": 425,
+                  "name": "Вращающийся шнур",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 13,
+                  "measure": null
+                },
+                {
+                  "id": 224,
+                  "name": "Длина сетевого шнура",
+                  "value": "2",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 14,
+                  "measure": "м"
+                }
+              ]
+            },
+            {
+              "name": "Режимы работы",
+              "priority": 5,
+              "properties": [
+                {
+                  "id": 3390,
+                  "name": "Количество температурных режимов",
+                  "value": "3",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 5,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Безопасность",
+              "priority": 7,
+              "properties": [
+                {
+                  "id": 456,
+                  "name": "Отключение при перегреве",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 7,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Насадки",
+              "priority": 8,
+              "properties": [
+                {
+                  "id": 373,
+                  "name": "Количество насадок",
+                  "value": "6",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 8,
+                  "measure": null
+                },
+                {
+                  "id": 7608,
+                  "name": "Насадка для выпрямления",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 9,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Функции мультистайлера",
+              "priority": 10,
+              "properties": [
+                {
+                  "id": 625385,
+                  "name": "Функции мультистайлера",
+                  "value": "волны, завивка, гофре, выпрямление, сушка и укладка",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 10,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Рабочая поверхность",
+              "priority": 15,
+              "properties": [
+                {
+                  "id": 3716,
+                  "name": "Диаметр щипцов для завивки",
+                  "value": "30/ 40 мм",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 15,
+                  "measure": null
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "images": [
+          "Pdb/4270210b.jpg",
+          "Pdb/4270210b1.jpg",
+          "Pdb/4270210b2.jpg",
+          "Big/4270210bb3.jpg"
+        ]
+      },
+      {
+        "productId": "400514606",
+        "name": "Пылесос вертикальный Remez моющий МультиКлик ПРО Аква+ RMVC-5465, 2 аккумулятора, серый металлик",
+        "nameTranslit": "pylesos-vertikalnyi-remez-moushhii-multiklik-pro-akva-rmvc-5465-2-akkumulyatora-seryi-metallik",
+        "productType": "ZCON",
+        "usedProductType": null,
+        "materialCisNumber": "400514606",
+        "materialSource": "shelf",
+        "modelName": "моющий МультиКлик ПРО Аква+ RMVC-5465, 2 аккумулятора, серый металлик",
+        "rating": {
+          "star": 4.8,
+          "count": 5,
+          "percent": null
+        },
+        "supplier": {
+          "id": "K000056425",
+          "name": "ООО \"РОМАТИ\"",
+          "marketingName": "REMEZ",
+          "address": "121609, Москва, Рублёвское шоссе, 48/1",
+          "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+          "ogrn": "1167746874855",
+          "inn": "7730213981",
+          "phone": "+74954887257"
+        },
+        "vendorCatalog": null,
+        "sublicense": false,
+        "saleLegal": true,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "weight": 5.8,
+        "image": "Big/400514606bb.jpg",
+        "brandId": "6683",
+        "brandName": "Remez",
+        "status": {
+          "showCase": true,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isPrepayment": false,
+          "isCannotBeExchanged": false
+        },
+        "category": {
+          "id": "3088",
+          "name": "Пылесосы вертикальные"
+        },
+        "groups": [
+          {
+            "name": "Пылесосы и аксессуары",
+            "groupId": "17530",
+            "seoId": "2428",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Пылесосы",
+            "groupId": "17531",
+            "seoId": "2438",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "Пылесосы вертикальные",
+            "groupId": "17543",
+            "seoId": "3088",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "properties": {
+          "key": [
+            {
+              "name": "Мощность",
+              "priority": 1,
+              "properties": [
+                {
+                  "id": 649,
+                  "name": "Максимальная мощность всасывания",
+                  "value": "300",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 1,
+                  "measure": "Вт"
+                }
+              ]
+            },
+            {
+              "name": "Электропитание",
+              "priority": 3,
+              "properties": [
+                {
+                  "id": 612334,
+                  "name": "Время работы от аккумулятора до",
+                  "value": "160",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 3,
+                  "measure": "мин"
+                },
+                {
+                  "id": 2765,
+                  "name": "Тип вилки",
+                  "value": "евростандарт (тип C)",
+                  "nameDescription": null,
+                  "valueDescription": "Обладает двумя круглыми контактами, которые располагаются параллельно. Такой тип вилок рассчитан на сети 220-240 В и 50 Гц. Применяется в России, во многих странах Европы, Северной и Центральной Африки и некоторых государствах Азии.",
+                  "priority": 15,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Система сбора пыли и грязи",
+              "priority": 4,
+              "properties": [
+                {
+                  "id": 455,
+                  "name": "Объем контейнера для пыли",
+                  "value": "0.8",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 4,
+                  "measure": "л"
+                },
+                {
+                  "id": 703,
+                  "name": "Циклоническая система",
+                  "value": "Да",
+                  "nameDescription": "В роли пылесборника в таком пылесосе выступает специальный контейнер. Воздух, попадающий в него, движется по спирали, и под воздействием центробежной силы пыль сбивается в плотный комок. После окончания уборки контейнер легко снимается, пыль из него вытряхивается в мусорное ведро.",
+                  "valueDescription": null,
+                  "priority": 8,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Режимы работы",
+              "priority": 6,
+              "properties": [
+                {
+                  "id": 1546,
+                  "name": "Влажная уборка",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 6,
+                  "measure": null
+                },
+                {
+                  "id": 460,
+                  "name": "Сухая уборка",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 11,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Корпус",
+              "priority": 13,
+              "properties": [
+                {
+                  "id": 452,
+                  "name": "Вертикальная парковка",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 13,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Вес",
+              "priority": 14,
+              "properties": [
+                {
+                  "id": 91,
+                  "name": "Вес",
+                  "value": "2.9",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 14,
+                  "measure": "кг"
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "images": [
+          "Big/400514606bb.jpg",
+          "Pdb/400514606b1.jpg",
+          "Pdb/400514606b2.jpg",
+          "Pdb/400514606b3.jpg",
+          "Pdb/400514606b4.jpg",
+          "Pdb/400514606b5.jpg",
+          "Pdb/400514606b6.jpg",
+          "Pdb/400514606b7.jpg",
+          "Pdb/400514606b8.jpg",
+          "Pdb/400514606b9.jpg",
+          "Pdb/400514606b10.jpg",
+          "Pdb/400514606b11.jpg",
+          "Pdb/400514606b12.jpg",
+          "Big/400514606bb13.jpg",
+          "Big/400514606bb14.jpg"
+        ]
+      },
+      {
+        "productId": "30087003",
+        "name": "Смартфон Apple iPhone 17 256GB Blue (без RuStore)",
+        "nameTranslit": "smartfon-apple-iphone-17-256gb-blue-bez-rustore",
+        "productType": "DIG",
+        "usedProductType": null,
+        "materialCisNumber": "30087003",
+        "materialSource": "ERP",
+        "modelName": "iPhone 17 256GB Blue (без RuStore)",
+        "rating": {
+          "star": 4.8,
+          "count": 10,
+          "percent": null
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "saleLegal": true,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "weight": 0.3,
+        "image": "Big/30087003bb.jpg",
+        "brandId": "685",
+        "brandName": "Apple",
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isPrepayment": false,
+          "isCannotBeExchanged": false
+        },
+        "category": {
+          "id": "914",
+          "name": "iPhone"
+        },
+        "groups": [
+          {
+            "name": "Смартфоны и связь",
+            "groupId": "16430",
+            "seoId": "10",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Смартфоны",
+            "groupId": "16433",
+            "seoId": "205",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "iPhone",
+            "groupId": "16435",
+            "seoId": "914",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "properties": {
+          "key": [
+            {
+              "name": "Экран",
+              "priority": 1,
+              "properties": [
+                {
+                  "id": 30848201,
+                  "name": "Экран",
+                  "value": "6.3\"/1206x2622 Пикс",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 1,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Процессор",
+              "priority": 3,
+              "properties": [
+                {
+                  "id": 637,
+                  "name": "Тип процессора",
+                  "value": "A19",
+                  "nameDescription": "Процессоры каждого производителя объединяются в линейки по своему типу. Тип процессора указывает на его основное назначение: для домашнего компьютера, рабочего или игрового.",
+                  "valueDescription": null,
+                  "priority": 3,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Встроенная память",
+              "priority": 4,
+              "properties": [
+                {
+                  "id": 753,
+                  "name": "Встроенная память (ROM)",
+                  "value": "256 ГБ",
+                  "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                  "valueDescription": null,
+                  "priority": 4,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Основная камера",
+              "priority": 5,
+              "properties": [
+                {
+                  "id": 30848204,
+                  "name": "Основная камера МПикс",
+                  "value": "48/48",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 5,
+                  "measure": null
+                },
+                {
+                  "id": 606261,
+                  "name": "Оптическая стабилизация",
+                  "value": "Да",
+                  "nameDescription": "Система механической компенсации дрожания камеры, благодаря которой изображение на снимках и видеосъемки не смазывается даже при активном движении.",
+                  "valueDescription": null,
+                  "priority": 9,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Основные характеристики",
+              "priority": 6,
+              "properties": [
+                {
+                  "id": 622465,
+                  "name": "Состояние",
+                  "value": "новый",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 6,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Операционная система",
+              "priority": 7,
+              "properties": [
+                {
+                  "id": 626826,
+                  "name": "Обяз. к предустановке ПО",
+                  "value": "отсутствует",
+                  "nameDescription": "Если значение характеристики «отсутствует», значит Товар имеет недостаток. Приобретая данный Товар, Вы соглашаетесь с приобретением Товара на указанных условиях: На устройстве допускается отсутствие обязательного к предустановке ПО, а в отношении предустановленного ПО могут не обеспечиваться условия п.п. 4.1 и 4.2 ст. 4 Закона о защите прав потребителей.\nAndroid/iOS/HyperOS: Яндекс Браузер,Яндекс с Алисой,Яндекс карты,2ГИС, Яндекс Диск, Почта@mail.ru, Цифровая платформа MAX, Маруся, Дзен, Rutube, ВКонтакте, Одноклассники, Mir Pay, Госуслуги, МойОфис Документы, Kaspersky Free, RuStore, Книги и аудиокниги, Честный знак. Harmony OS: Цифровая платформа MAX, Rutube, Госуслуги, RuStore. Windows/MacOS/Linux: Яндекс Браузер, МойОфис Стандартный Домашняя версия, Kaspersky Free. Smart TV/Android TV: Яндекс Браузер, Яндекс с Алисой, Rutube, VK Видео для Smart TV, ИВИ, Первый, НТВ, PREMIER, КиноПоиск, Wink, Okko Movies, Смотрим, START, AMEDIATEKA, KION, Билайн ТВ, Триколор Кино и ТВ онлайн, Movix.",
+                  "valueDescription": null,
+                  "priority": 7,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Фронтальная камера",
+              "priority": 11,
+              "properties": [
+                {
+                  "id": 30852958,
+                  "name": "Фронтальная камера МПикс",
+                  "value": "18",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 11,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Безопасность",
+              "priority": 12,
+              "properties": [
+                {
+                  "id": 8537,
+                  "name": "Сенсор распознавания лица",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 12,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Корпус",
+              "priority": 13,
+              "properties": [
+                {
+                  "id": 6952,
+                  "name": "Степень защиты",
+                  "value": "IP68",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 13,
+                  "measure": null
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "images": [
+          "Big/30087003bb.jpg",
+          "Big/30087003bb1.jpg",
+          "Big/30087003bb2.jpg",
+          "Big/30087003bb3.jpg",
+          "Big/30087003bb4.jpg"
+        ]
+      },
+      {
+        "productId": "6013767",
+        "name": "Онлайн-кинотеатр PREMIER 12 месяцев",
+        "nameTranslit": "onlain-kinoteatr-premier-12-mesyacev",
+        "productType": "ZDGC",
+        "usedProductType": null,
+        "materialCisNumber": "6013767",
+        "materialSource": "ERP",
+        "modelName": "12 месяцев",
+        "rating": {
+          "star": 4.6,
+          "count": 210,
+          "percent": null
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "saleLegal": true,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "weight": 0,
+        "image": "Big/6013767bb.jpg",
+        "brandId": "223",
+        "brandName": "PREMIER",
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isPrepayment": false,
+          "isCannotBeExchanged": false
+        },
+        "category": {
+          "id": "3809",
+          "name": "Онлайн кинотеатры (Смарт ТВ)"
+        },
+        "groups": [
+          {
+            "name": "Коды для фильмов, музыки и книг",
+            "groupId": "17568",
+            "seoId": "3787",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Цифровые коды для фильмов, музыки и книг",
+            "groupId": "17569",
+            "seoId": "3792",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "Онлайн кинотеатры (Смарт ТВ)",
+            "groupId": "17571",
+            "seoId": "3809",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "properties": {
+          "key": [
+            {
+              "name": "Срок действия",
+              "priority": 1,
+              "properties": [
+                {
+                  "id": 30850607,
+                  "name": "Срок действия основного продукта",
+                  "value": "12",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 1,
+                  "measure": "мес."
+                }
+              ]
+            },
+            {
+              "name": "Подписка",
+              "priority": 2,
+              "properties": [
+                {
+                  "id": 67,
+                  "name": "Появление новинок в подписке",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 2,
+                  "measure": null
+                },
+                {
+                  "id": 7983,
+                  "name": "Возможность скачивать медиаконтент",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 5,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Дистанционное управление",
+              "priority": 3,
+              "properties": [
+                {
+                  "id": 62,
+                  "name": "Мобильное приложение",
+                  "value": "Android",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 3,
+                  "measure": null
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "images": [
+          "Big/6013767bb.jpg",
+          "Big/6013767bb1.jpg",
+          "Big/6013767bb2.jpg",
+          "Big/6013767bb3.jpg",
+          "Big/6013767bb4.jpg",
+          "Big/6013767bb5.jpg",
+          "Big/6013767bb6.jpg"
+        ]
+      },
+      {
+        "productId": "400469266",
+        "name": "Аэрогриль Brayer BR2043 Be",
+        "nameTranslit": "aerogril-brayer-br2043-be",
+        "productType": "ZCON",
+        "usedProductType": null,
+        "materialCisNumber": "400469266",
+        "materialSource": "shelf",
+        "modelName": "BR2043 Be",
+        "rating": {
+          "star": 4.6,
+          "count": 13,
+          "percent": null
+        },
+        "supplier": {
+          "id": "K000054922",
+          "name": "ООО \"Грантэл\"",
+          "address": "143912, Балашиха, шоссе Энтузиастов, 1",
+          "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+          "ogrn": "1115001005118",
+          "inn": "5001082051",
+          "phone": "+74957883528"
+        },
+        "vendorCatalog": null,
+        "sublicense": false,
+        "saleLegal": false,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "weight": 4.2,
+        "image": "Big/400469266bb.jpg",
+        "brandId": "4618",
+        "brandName": "Brayer",
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isPrepayment": false,
+          "isCannotBeExchanged": false
+        },
+        "category": {
+          "id": "764",
+          "name": "Аэрогрили"
+        },
+        "groups": [
+          {
+            "name": "Мелкая кухонная техника",
+            "groupId": "16160",
+            "seoId": "3",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Грили",
+            "groupId": "16161",
+            "seoId": "198",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "Аэрогрили",
+            "groupId": "16205",
+            "seoId": "764",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "properties": {
+          "key": [
+            {
+              "name": "Чаша",
+              "priority": 1,
+              "properties": [
+                {
+                  "id": 2031,
+                  "name": "Объем чаши",
+                  "value": "5",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 1,
+                  "measure": "л"
+                },
+                {
+                  "id": 1819,
+                  "name": "Съемная чаша",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 4,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Управление",
+              "priority": 2,
+              "properties": [
+                {
+                  "id": 612895,
+                  "name": "Количество автоматических программ",
+                  "value": "7",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 2,
+                  "measure": null
+                },
+                {
+                  "id": 85,
+                  "name": "Тип управления",
+                  "value": "сенсорное",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 3,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Корпус",
+              "priority": 5,
+              "properties": [
+                {
+                  "id": 714,
+                  "name": "Антипригарное покрытие",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 5,
+                  "measure": null
+                },
+                {
+                  "id": 896,
+                  "name": "Нагревательный элемент",
+                  "value": "BioGlassHeat",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 8,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Функции",
+              "priority": 6,
+              "properties": [
+                {
+                  "id": 3242,
+                  "name": "Автоподдержание температуры нагрева",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 6,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Таймер",
+              "priority": 7,
+              "properties": [
+                {
+                  "id": 1515,
+                  "name": "Таймер продолжительности работы",
+                  "value": "до 59 минут",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 7,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Вес",
+              "priority": 9,
+              "properties": [
+                {
+                  "id": 91,
+                  "name": "Вес",
+                  "value": "4.2",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 9,
+                  "measure": "кг"
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "images": [
+          "Big/400469266bb.jpg",
+          "Big/400469266bb1.jpg",
+          "Big/400469266bb2.jpg",
+          "Big/400469266bb3.jpg",
+          "Big/400469266bb4.jpg",
+          "Big/400469266bb5.jpg",
+          "Big/400469266bb6.jpg",
+          "Big/400469266bb7.jpg",
+          "Big/400469266bb8.jpg",
+          "Big/400469266bb9.jpg",
+          "Big/400469266bb10.jpg",
+          "Pdb/400469266b11.jpg",
+          "Big/400469266bb12.jpg",
+          "Pdb/400469266b13.jpg"
+        ]
+      },
+      {
+        "productId": "400477391",
+        "name": "Блендер погружной Bosch MSM6M871",
+        "nameTranslit": "blender-pogruzhnoi-bosch-msm6m871",
+        "productType": "ZCON",
+        "usedProductType": null,
+        "materialCisNumber": "400477391",
+        "materialSource": "shelf",
+        "modelName": "MSM6M871",
+        "rating": {
+          "star": 0,
+          "count": 0,
+          "percent": null
+        },
+        "supplier": {
+          "id": "K000064525",
+          "name": "ООО \"СМАРТЛИНК\"",
+          "address": "109316, Москва, Волгоградский проспект, 47",
+          "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+          "ogrn": "1247700287306",
+          "inn": "9722074336",
+          "phone": "+79129010101"
+        },
+        "vendorCatalog": null,
+        "sublicense": false,
+        "saleLegal": true,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "weight": 3.04,
+        "image": "Big/400477391bb.jpg",
+        "brandId": "48",
+        "brandName": "Bosch",
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isPrepayment": false,
+          "isCannotBeExchanged": false
+        },
+        "category": {
+          "id": "486",
+          "name": "Блендеры"
+        },
+        "groups": [
+          {
+            "name": "Мелкая кухонная техника",
+            "groupId": "16160",
+            "seoId": "3",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Миксеры и блендеры",
+            "groupId": "16170",
+            "seoId": "98",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "Блендеры",
+            "groupId": "16172",
+            "seoId": "486",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "properties": {
+          "key": [
+            {
+              "name": "Электропитание",
+              "priority": 1,
+              "properties": [
+                {
+                  "id": 152,
+                  "name": "Потребляемая мощность",
+                  "value": "1200",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 1,
+                  "measure": "Вт"
+                }
+              ]
+            },
+            {
+              "name": "Насадки",
+              "priority": 4,
+              "properties": [
+                {
+                  "id": 599163,
+                  "name": "Количество насадок",
+                  "value": "4",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 4,
+                  "measure": "шт"
+                }
+              ]
+            },
+            {
+              "name": "Управление",
+              "priority": 5,
+              "properties": [
+                {
+                  "id": 1783,
+                  "name": "Количество скоростей",
+                  "value": "1",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 5,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Режимы работы",
+              "priority": 6,
+              "properties": [
+                {
+                  "id": 1772,
+                  "name": "Импульсный режим работы",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 6,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Очистка",
+              "priority": 8,
+              "properties": [
+                {
+                  "id": 30852154,
+                  "name": "Мойка в посудомоечной машине",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 8,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Вес",
+              "priority": 9,
+              "properties": [
+                {
+                  "id": 91,
+                  "name": "Вес",
+                  "value": "2.5",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 9,
+                  "measure": "кг"
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "images": [
+          "Big/400477391bb.jpg",
+          "Pdb/400477391b1.jpg",
+          "Big/400477391bb2.jpg",
+          "Pdb/400477391b3.jpg"
+        ]
+      },
+      {
+        "productId": "20097468",
+        "name": "Пылесос ручной (handstick) Dyson V8 Absolute SIL/YLW (UK) 476596-01",
+        "nameTranslit": "pylesos-ruchnoi-handstick-dyson-v8-absolute-sil-ylw-uk-476596-01",
+        "productType": "BT",
+        "usedProductType": null,
+        "materialCisNumber": "20097468",
+        "materialSource": "ERP",
+        "modelName": "V8 Absolute SIL/YLW (UK) 476596-01",
+        "rating": {
+          "star": 4.65,
+          "count": 21,
+          "percent": null
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "saleLegal": true,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "weight": 5,
+        "image": "Big/20097468bb.jpg",
+        "brandId": "937",
+        "brandName": "Dyson",
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isPrepayment": false,
+          "isCannotBeExchanged": false
+        },
+        "category": {
+          "id": "3088",
+          "name": "Пылесосы вертикальные"
+        },
+        "groups": [
+          {
+            "name": "Пылесосы и аксессуары",
+            "groupId": "17530",
+            "seoId": "2428",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Пылесосы",
+            "groupId": "17531",
+            "seoId": "2438",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "Пылесосы вертикальные",
+            "groupId": "17543",
+            "seoId": "3088",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "properties": {
+          "key": [
+            {
+              "name": "Мощность",
+              "priority": 1,
+              "properties": [
+                {
+                  "id": 649,
+                  "name": "Максимальная мощность всасывания",
+                  "value": "115",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 1,
+                  "measure": "Вт"
+                }
+              ]
+            },
+            {
+              "name": "Электропитание",
+              "priority": 3,
+              "properties": [
+                {
+                  "id": 612334,
+                  "name": "Время работы от аккумулятора до",
+                  "value": "40",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 3,
+                  "measure": "мин"
+                },
+                {
+                  "id": 2765,
+                  "name": "Тип вилки",
+                  "value": "английская (тип D)",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 15,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Система сбора пыли и грязи",
+              "priority": 4,
+              "properties": [
+                {
+                  "id": 455,
+                  "name": "Объем контейнера для пыли",
+                  "value": "0.54",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 4,
+                  "measure": "л"
+                },
+                {
+                  "id": 703,
+                  "name": "Циклоническая система",
+                  "value": "Да",
+                  "nameDescription": "В роли пылесборника в таком пылесосе выступает специальный контейнер. Воздух, попадающий в него, движется по спирали, и под воздействием центробежной силы пыль сбивается в плотный комок. После окончания уборки контейнер легко снимается, пыль из него вытряхивается в мусорное ведро.",
+                  "valueDescription": null,
+                  "priority": 8,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Режимы работы",
+              "priority": 5,
+              "properties": [
+                {
+                  "id": 508,
+                  "name": "Количество режимов работы",
+                  "value": "2",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 5,
+                  "measure": null
+                },
+                {
+                  "id": 460,
+                  "name": "Сухая уборка",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 11,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Фильтр",
+              "priority": 10,
+              "properties": [
+                {
+                  "id": 30853578,
+                  "name": "Выходной фильтр",
+                  "value": "сменный моющийся HEPA",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 10,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Корпус",
+              "priority": 13,
+              "properties": [
+                {
+                  "id": 452,
+                  "name": "Вертикальная парковка",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 13,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Вес",
+              "priority": 14,
+              "properties": [
+                {
+                  "id": 91,
+                  "name": "Вес",
+                  "value": "2.63",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 14,
+                  "measure": "кг"
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "images": [
+          "Big/20097468bb.jpg",
+          "Big/20097468bb1.jpg",
+          "Big/20097468bb2.jpg"
+        ]
+      },
+      {
+        "productId": "400604027",
+        "name": "Тумба под телевизор ОРИНОКО 3742",
+        "nameTranslit": "tumba-pod-televizor-orinoko-3742",
+        "productType": "ZCON",
+        "usedProductType": null,
+        "materialCisNumber": "400604027",
+        "materialSource": "shelf",
+        "modelName": "3742",
+        "rating": {
+          "star": 5,
+          "count": 4,
+          "percent": null
+        },
+        "supplier": {
+          "id": "K000070028",
+          "name": "ООО \"СТРОЙ-ПОСТАВКА\"",
+          "address": "440028, Пенза, проспект Победы, 84",
+          "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+          "ogrn": "1185835016883",
+          "inn": "5835130665",
+          "phone": "+79875144444"
+        },
+        "vendorCatalog": null,
+        "sublicense": false,
+        "saleLegal": false,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "weight": 21,
+        "image": "Pdb/400604027b.jpg",
+        "brandId": "28381",
+        "brandName": "ОРИНОКО",
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isPrepayment": false,
+          "isCannotBeExchanged": false
+        },
+        "category": {
+          "id": "965",
+          "name": "Тумбы под телевизоры"
+        },
+        "groups": [
+          {
+            "name": "Аксессуары для телевизоров",
+            "groupId": "16954",
+            "seoId": "41",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Тумбы и подставки для телевизоров",
+            "groupId": "16963",
+            "seoId": "237",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "Тумбы под телевизоры",
+            "groupId": "16964",
+            "seoId": "965",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "properties": {
+          "key": [
+            {
+              "name": "Корпус",
+              "priority": 5,
+              "properties": [
+                {
+                  "id": 83,
+                  "name": "Материал корпуса",
+                  "value": "ЛДСП",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 5,
+                  "measure": null
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "images": [
+          "Pdb/400604027b.jpg",
+          "Pdb/400604027b1.jpg",
+          "Pdb/400604027b2.jpg",
+          "Pdb/400604027b3.jpg",
+          "Pdb/400604027b4.jpg",
+          "Pdb/400604027b5.jpg",
+          "Pdb/400604027b6.jpg",
+          "Pdb/400604027b7.jpg",
+          "Pdb/400604027b8.jpg"
+        ]
+      },
+      {
+        "productId": "400501506",
+        "name": "Электровафельница Brayer BR2310",
+        "nameTranslit": "elektrovafelnica-brayer-br2310",
+        "productType": "ZCON",
+        "usedProductType": null,
+        "materialCisNumber": "400501506",
+        "materialSource": "ERP",
+        "modelName": "BR2310",
+        "rating": {
+          "star": 3.5,
+          "count": 8,
+          "percent": null
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "saleLegal": false,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "weight": 3.5,
+        "image": "Big/400501506bb.jpg",
+        "brandId": "4618",
+        "brandName": "Brayer",
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isPrepayment": false,
+          "isCannotBeExchanged": false
+        },
+        "category": {
+          "id": "725",
+          "name": "Электровафельницы"
+        },
+        "groups": [
+          {
+            "name": "Мелкая кухонная техника",
+            "groupId": "16160",
+            "seoId": "3",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Мультипекари и электровафельницы",
+            "groupId": "16198",
+            "seoId": "111",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "Электровафельницы",
+            "groupId": "16199",
+            "seoId": "725",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "properties": {
+          "key": [
+            {
+              "name": "Форма",
+              "priority": 1,
+              "properties": [
+                {
+                  "id": 622845,
+                  "name": "Панель",
+                  "value": "для вафельных рожков, для вафель, для орешков, для печенья, для пончиков, для сэндвичей",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 1,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Регулировка",
+              "priority": 3,
+              "properties": [
+                {
+                  "id": 405,
+                  "name": "Тип регулировки температуры",
+                  "value": "1 режим",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 3,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Электропитание",
+              "priority": 4,
+              "properties": [
+                {
+                  "id": 152,
+                  "name": "Потребляемая мощность",
+                  "value": "850",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 4,
+                  "measure": "Вт"
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "images": [
+          "Big/400501506bb.jpg",
+          "Pdb/400501506b1.jpg",
+          "Pdb/400501506b2.jpg",
+          "Pdb/400501506b3.jpg",
+          "Pdb/400501506b4.jpg",
+          "Pdb/400501506b5.jpg",
+          "Big/400501506bb6.jpg",
+          "Pdb/400501506b7.jpg",
+          "Big/400501506bb8.jpg",
+          "Pdb/400501506b9.jpg",
+          "Pdb/400501506b10.jpg",
+          "Pdb/400501506b11.jpg",
+          "Pdb/400501506b12.jpg",
+          "Big/400501506bb13.jpg",
+          "Pdb/400501506b14.jpg"
+        ]
+      },
+      {
+        "productId": "20070352",
+        "name": "Машинка для стрижки волос Rowenta Logic TN1700D8",
+        "nameTranslit": "mashinka-dlya-strizhki-volos-rowenta-logic-tn1700d8",
+        "productType": "BT",
+        "usedProductType": null,
+        "materialCisNumber": "20070352",
+        "materialSource": "ERP",
+        "modelName": "Logic TN1700D8",
+        "rating": {
+          "star": 4.75,
+          "count": 242,
+          "percent": null
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "saleLegal": true,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "weight": 0.55,
+        "image": "Big/20070352bb.jpg",
+        "brandId": "63",
+        "brandName": "Rowenta",
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isPrepayment": false,
+          "isCannotBeExchanged": false
+        },
+        "category": {
+          "id": "579",
+          "name": "Машинки для стрижки"
+        },
+        "groups": [
+          {
+            "name": "Товары для бритья и стрижки",
+            "groupId": "17739",
+            "seoId": "5927",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Машинки для стрижки волос",
+            "groupId": "17744",
+            "seoId": "143",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "Машинки для стрижки",
+            "groupId": "17745",
+            "seoId": "579",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "properties": {
+          "key": [
+            {
+              "name": "Лезвие",
+              "priority": 1,
+              "properties": [
+                {
+                  "id": 526,
+                  "name": "Материал лезвия",
+                  "value": "нержавеющая сталь",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 1,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Электропитание",
+              "priority": 4,
+              "properties": [
+                {
+                  "id": 224,
+                  "name": "Длина сетевого шнура",
+                  "value": "1.8",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 4,
+                  "measure": "м"
+                }
+              ]
+            },
+            {
+              "name": "Вес",
+              "priority": 5,
+              "properties": [
+                {
+                  "id": 11929,
+                  "name": "Вес",
+                  "value": "350",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 5,
+                  "measure": "г"
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "images": [
+          "Big/20070352bb.jpg",
+          "Big/20070352bb1.jpg",
+          "Big/20070352bb2.jpg",
+          "Big/20070352bb3.jpg",
+          "Big/20070352bb4.jpg",
+          "Big/20070352bb5.jpg",
+          "Big/20070352bb6.jpg",
+          "Big/20070352bb7.jpg",
+          "Big/20070352bb8.jpg",
+          "Big/20070352bb9.jpg"
+        ]
+      },
+      {
+        "productId": "400710251",
+        "name": "Автомобильный видеорегистратор 70mai A200",
+        "nameTranslit": "avtomobilnyi-videoregistrator-70mai-a200",
+        "productType": "ZCON",
+        "usedProductType": null,
+        "materialCisNumber": "400710251",
+        "materialSource": "shelf",
+        "modelName": "A200",
+        "rating": {
+          "star": 5,
+          "count": 26,
+          "percent": null
+        },
+        "supplier": {
+          "id": "K000071271",
+          "name": "ООО \"ЛАМОБАЙЛ\"",
+          "marketingName": "Lamobile",
+          "address": "142701, Видное, проспект Ленинского Комсомола, 41",
+          "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+          "ogrn": "1185027020947",
+          "inn": "5003130374",
+          "phone": "+79856410493"
+        },
+        "vendorCatalog": null,
+        "sublicense": false,
+        "saleLegal": false,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "weight": 0.37,
+        "image": "Big/400710251bb.jpg",
+        "brandId": "4682",
+        "brandName": "70mai",
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isPrepayment": false,
+          "isCannotBeExchanged": false
+        },
+        "category": {
+          "id": "969",
+          "name": "Автомобильные видеорегистраторы"
+        },
+        "groups": [
+          {
+            "name": "Навигаторы и автомобильная электроника",
+            "groupId": "16521",
+            "seoId": "17",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Видеорегистраторы",
+            "groupId": "16527",
+            "seoId": "209",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "Автомобильные видеорегистраторы",
+            "groupId": "16528",
+            "seoId": "969",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "properties": {
+          "key": [
+            {
+              "name": "Матрица",
+              "priority": 1,
+              "properties": [
+                {
+                  "id": 623379,
+                  "name": "Качество видеосъемки/ FPS",
+                  "value": "1920x1080 Пикс 60 кадр/сек",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 1,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Оптика",
+              "priority": 2,
+              "properties": [
+                {
+                  "id": 2414,
+                  "name": "Угол обзора (основная камера)",
+                  "value": "130",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 2,
+                  "measure": "*"
+                }
+              ]
+            },
+            {
+              "name": "Функции",
+              "priority": 6,
+              "properties": [
+                {
+                  "id": 623381,
+                  "name": "Технология",
+                  "value": "HDR",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 6,
+                  "measure": null
+                },
+                {
+                  "id": 623382,
+                  "name": "Интерфейс",
+                  "value": "Wi-Fi",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 8,
+                  "measure": null
+                },
+                {
+                  "id": 4219,
+                  "name": "Интервал записи",
+                  "value": "1/2/3 мин.",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 11,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Экран",
+              "priority": 7,
+              "properties": [
+                {
+                  "id": 623384,
+                  "name": "Тип дисплея",
+                  "value": "IPS",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 7,
+                  "measure": null
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "images": [
+          "Big/400710251bb.jpg",
+          "Pdb/400710251b1.jpg",
+          "Pdb/400710251b2.jpg",
+          "Pdb/400710251b3.jpg",
+          "Pdb/400710251b4.jpg",
+          "Pdb/400710251b5.jpg",
+          "Pdb/400710251b6.jpg",
+          "Pdb/400710251b7.jpg",
+          "Pdb/400710251b8.jpg",
+          "Pdb/400710251b9.jpg",
+          "Pdb/400710251b10.jpg",
+          "Pdb/400710251b11.jpg"
+        ]
+      },
+      {
+        "productId": "20036881",
+        "name": "Электрогриль Tefal Optigrill+ GC712D34 серебристый",
+        "nameTranslit": "elektrogril-tefal-optigrill-gc712d34-serebristyi",
+        "productType": "BT",
+        "usedProductType": null,
+        "materialCisNumber": "20036881",
+        "materialSource": "ERP",
+        "modelName": "Optigrill+ GC712D34 серебристый",
+        "rating": {
+          "star": 4.9,
+          "count": 807,
+          "percent": null
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "saleLegal": true,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "weight": 5.65,
+        "image": "Big/20036881bb.jpg",
+        "brandId": "76",
+        "brandName": "Tefal",
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isPrepayment": false,
+          "isCannotBeExchanged": false
+        },
+        "category": {
+          "id": "525",
+          "name": "Электрогрили"
+        },
+        "groups": [
+          {
+            "name": "Мелкая кухонная техника",
+            "groupId": "16160",
+            "seoId": "3",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Грили",
+            "groupId": "16161",
+            "seoId": "198",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "Электрогрили",
+            "groupId": "16184",
+            "seoId": "525",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "properties": {
+          "key": [
+            {
+              "name": "Использование",
+              "priority": 1,
+              "properties": [
+                {
+                  "id": 557,
+                  "name": "Варианты использования гриля",
+                  "value": "закрытый",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 1,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Рабочая поверхность",
+              "priority": 2,
+              "properties": [
+                {
+                  "id": 563,
+                  "name": "Рабочая поверхность гриля",
+                  "value": "верхняя/нижняя",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 2,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Корпус",
+              "priority": 5,
+              "properties": [
+                {
+                  "id": 714,
+                  "name": "Антипригарное покрытие",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 5,
+                  "measure": null
+                },
+                {
+                  "id": 565,
+                  "name": "Съемный лоток для жира",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 11,
+                  "measure": null
+                },
+                {
+                  "id": 423,
+                  "name": "Термоизолированная ручка",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 12,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Режимы работы",
+              "priority": 6,
+              "properties": [
+                {
+                  "id": 1786,
+                  "name": "Автоматические режимы",
+                  "value": "6",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 6,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Программы приготовления",
+              "priority": 7,
+              "properties": [
+                {
+                  "id": 623810,
+                  "name": "Программы приготовления",
+                  "value": "бургер, выпечка, жарка, морепродукты, мясо, рыба, стейк, сэндвич",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 7,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Звук",
+              "priority": 9,
+              "properties": [
+                {
+                  "id": 279,
+                  "name": "Звуковой сигнал",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 9,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Электропитание",
+              "priority": 13,
+              "properties": [
+                {
+                  "id": 224,
+                  "name": "Длина сетевого шнура",
+                  "value": "0.8",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 13,
+                  "measure": "м"
+                }
+              ]
+            },
+            {
+              "name": "Вес",
+              "priority": 14,
+              "properties": [
+                {
+                  "id": 91,
+                  "name": "Вес",
+                  "value": "4.65",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 14,
+                  "measure": "кг"
+                }
+              ]
+            },
+            {
+              "name": "Габаритные размеры",
+              "priority": 15,
+              "properties": [
+                {
+                  "id": 621798,
+                  "name": "Габаритные размеры (В*Ш*Г)",
+                  "value": "17.5*36.5*36.5 см",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 15,
+                  "measure": null
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "images": [
+          "Big/20036881bb.jpg",
+          "Big/20036881bb1.jpg",
+          "Big/20036881bb2.jpg",
+          "Big/20036881bb3.jpg",
+          "Big/20036881bb4.jpg",
+          "Big/20036881bb5.jpg",
+          "Big/20036881bb6.jpg",
+          "Big/20036881bb7.jpg",
+          "Big/20036881bb8.jpg",
+          "Big/20036881bb9.jpg",
+          "Big/20036881bb10.jpg",
+          "Big/20036881bb11.jpg",
+          "Big/20036881bb12.jpg",
+          "Big/20036881bb13.jpg",
+          "Big/20036881bb14.jpg"
+        ]
+      },
+      {
+        "productId": "30080789",
+        "name": "Смартфон Samsung Galaxy A56 5G 8/256GB черный",
+        "nameTranslit": "smartfon-samsung-galaxy-a56-5g-8-256gb-chernyi",
+        "productType": "DIG",
+        "usedProductType": null,
+        "materialCisNumber": "30080789",
+        "materialSource": "ERP",
+        "modelName": "Galaxy A56 5G 8/256GB Black",
+        "rating": {
+          "star": 4.9,
+          "count": 35,
+          "percent": null
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "saleLegal": true,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "weight": 0.3,
+        "image": "Big/30080789bb.jpg",
+        "brandId": "13",
+        "brandName": "Samsung",
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isPrepayment": false,
+          "isCannotBeExchanged": false
+        },
+        "category": {
+          "id": "761",
+          "name": "Смартфоны"
+        },
+        "groups": [
+          {
+            "name": "Смартфоны и связь",
+            "groupId": "16430",
+            "seoId": "10",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Смартфоны",
+            "groupId": "16433",
+            "seoId": "205",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "Смартфоны",
+            "groupId": "16434",
+            "seoId": "761",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "properties": {
+          "key": [
+            {
+              "name": "Процессор",
+              "priority": 2,
+              "properties": [
+                {
+                  "id": 619180,
+                  "name": "Процессор",
+                  "value": "Samsung Exynos 1580 2.9 ГГц",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 2,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Встроенная память",
+              "priority": 4,
+              "properties": [
+                {
+                  "id": 620252,
+                  "name": "Оперативная и встроенная память",
+                  "value": "8 ГБ/256 ГБ",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 4,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Основная камера",
+              "priority": 6,
+              "properties": [
+                {
+                  "id": 30848204,
+                  "name": "Основная камера МПикс",
+                  "value": "50/12/5",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 6,
+                  "measure": null
+                },
+                {
+                  "id": 606261,
+                  "name": "Оптическая стабилизация",
+                  "value": "Да",
+                  "nameDescription": "Система механической компенсации дрожания камеры, благодаря которой изображение на снимках и видеосъемки не смазывается даже при активном движении.",
+                  "valueDescription": null,
+                  "priority": 9,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Фронтальная камера",
+              "priority": 7,
+              "properties": [
+                {
+                  "id": 30852958,
+                  "name": "Фронтальная камера МПикс",
+                  "value": "12",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 7,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Операционная система",
+              "priority": 8,
+              "properties": [
+                {
+                  "id": 626826,
+                  "name": "Обяз. к предустановке ПО",
+                  "value": "присутствует",
+                  "nameDescription": "Если значение характеристики «отсутствует», значит Товар имеет недостаток. Приобретая данный Товар, Вы соглашаетесь с приобретением Товара на указанных условиях: На устройстве допускается отсутствие обязательного к предустановке ПО, а в отношении предустановленного ПО могут не обеспечиваться условия п.п. 4.1 и 4.2 ст. 4 Закона о защите прав потребителей.\nAndroid/iOS/HyperOS: Яндекс Браузер,Яндекс с Алисой,Яндекс карты,2ГИС, Яндекс Диск, Почта@mail.ru, Цифровая платформа MAX, Маруся, Дзен, Rutube, ВКонтакте, Одноклассники, Mir Pay, Госуслуги, МойОфис Документы, Kaspersky Free, RuStore, Книги и аудиокниги, Честный знак. Harmony OS: Цифровая платформа MAX, Rutube, Госуслуги, RuStore. Windows/MacOS/Linux: Яндекс Браузер, МойОфис Стандартный Домашняя версия, Kaspersky Free. Smart TV/Android TV: Яндекс Браузер, Яндекс с Алисой, Rutube, VK Видео для Smart TV, ИВИ, Первый, НТВ, PREMIER, КиноПоиск, Wink, Okko Movies, Смотрим, START, AMEDIATEKA, KION, Билайн ТВ, Триколор Кино и ТВ онлайн, Movix.",
+                  "valueDescription": null,
+                  "priority": 8,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Передача данных",
+              "priority": 10,
+              "properties": [
+                {
+                  "id": 153,
+                  "name": "Технология NFC",
+                  "value": "Да",
+                  "nameDescription": "Технология беспроводной передачи данных малого радиуса действия – не более 10 см.  Используется для обмена информацией между устройствами, бесконтактной оплаты покупок смартфоном \nи т.д.",
+                  "valueDescription": null,
+                  "priority": 10,
+                  "measure": null
+                },
+                {
+                  "id": 30852925,
+                  "name": "Поддержка стандартов",
+                  "value": "2G/3G/4G LTE/5G",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 11,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "SIM карта",
+              "priority": 12,
+              "properties": [
+                {
+                  "id": 30852858,
+                  "name": "Поддержка SIM карт",
+                  "value": "2 nano-SIM/eSim",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 12,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Электропитание",
+              "priority": 13,
+              "properties": [
+                {
+                  "id": 11908,
+                  "name": "Емкость аккумулятора",
+                  "value": "5000",
+                  "nameDescription": "Параметр, указывающий на возможность аккумулятора прибора поддерживать его автономную работу. Чем выше ёмкость, тем дольше устройство сможет функционировать без подключения к сети, но тем дольше придётся его заряжать.",
+                  "valueDescription": null,
+                  "priority": 13,
+                  "measure": "мАч"
+                }
+              ]
+            },
+            {
+              "name": "Безопасность",
+              "priority": 14,
+              "properties": [
+                {
+                  "id": 30852963,
+                  "name": "Сканер отпечатка пальца",
+                  "value": "интегрирован в экран смартфона.",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 14,
+                  "measure": null
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "images": [
+          "Big/30080789bb.jpg",
+          "Big/30080789bb1.jpg",
+          "Big/30080789bb2.jpg",
+          "Big/30080789bb3.jpg",
+          "Big/30080789bb4.jpg",
+          "Big/30080789bb5.jpg",
+          "Big/30080789bb6.jpg",
+          "Big/30080789bb7.jpg",
+          "Big/30080789bb8.jpg",
+          "Big/30080789bb9.jpg",
+          "Big/30080789bb10.jpg",
+          "Big/30080789bb11.jpg",
+          "Big/30080789bb12.jpg"
+        ]
+      },
+      {
+        "productId": "400439068",
+        "name": "Телевизор Hisense 65E7Q PRO",
+        "nameTranslit": "televizor-hisense-65e7q-pro",
+        "productType": "AV",
+        "usedProductType": null,
+        "materialCisNumber": "400439068",
+        "materialSource": "ERP",
+        "modelName": "65E7Q PRO",
+        "rating": {
+          "star": 4.05,
+          "count": 78,
+          "percent": null
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "saleLegal": true,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "weight": 23.4,
+        "image": "Big/400439068bb.jpg",
+        "brandId": "2081",
+        "brandName": "Hisense",
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isPrepayment": false,
+          "isCannotBeExchanged": false
+        },
+        "category": {
+          "id": "1682",
+          "name": "Телевизоры"
+        },
+        "groups": [
+          {
+            "name": "Телевизоры и цифровое ТВ",
+            "groupId": "16126",
+            "seoId": "1",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Телевизоры",
+            "groupId": "16129",
+            "seoId": "65",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "Телевизоры",
+            "groupId": "16132",
+            "seoId": "1682",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "properties": {
+          "key": [
+            {
+              "name": "Экран",
+              "priority": 1,
+              "properties": [
+                {
+                  "id": 30852874,
+                  "name": "Экран",
+                  "value": "65\"/4K Ultra HD (3840x2160 Пикс)",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 1,
+                  "measure": null
+                },
+                {
+                  "id": 612495,
+                  "name": "Диагональ",
+                  "value": "65",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 2,
+                  "measure": "\""
+                },
+                {
+                  "id": 2119,
+                  "name": "Частота обновления",
+                  "value": "144",
+                  "nameDescription": "Частота смены кадров на экране. Влияет на качество изображения, особенно в динамичных сценах и играх.",
+                  "valueDescription": null,
+                  "priority": 4,
+                  "measure": "Гц"
+                },
+                {
+                  "id": 30852907,
+                  "name": "Технология экрана",
+                  "value": "QLED",
+                  "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                  "valueDescription": null,
+                  "priority": 5,
+                  "measure": null
+                },
+                {
+                  "id": 624510,
+                  "name": "Тип светодиодной подсветки",
+                  "value": "Direct LED",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 6,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Функции",
+              "priority": 7,
+              "properties": [
+                {
+                  "id": 208,
+                  "name": "Поддержка Smart TV",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 7,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Операционная система",
+              "priority": 8,
+              "properties": [
+                {
+                  "id": 626826,
+                  "name": "Обяз. к предустановке ПО",
+                  "value": "отсутствует",
+                  "nameDescription": "Если значение характеристики «отсутствует», значит Товар имеет недостаток. Приобретая данный Товар, Вы соглашаетесь с приобретением Товара на указанных условиях: На устройстве допускается отсутствие обязательного к предустановке ПО, а в отношении предустановленного ПО могут не обеспечиваться условия п.п. 4.1 и 4.2 ст. 4 Закона о защите прав потребителей.\nAndroid/iOS/HyperOS: Яндекс Браузер,Яндекс с Алисой,Яндекс карты,2ГИС, Яндекс Диск, Почта@mail.ru, Цифровая платформа MAX, Маруся, Дзен, Rutube, ВКонтакте, Одноклассники, Mir Pay, Госуслуги, МойОфис Документы, Kaspersky Free, RuStore, Книги и аудиокниги, Честный знак. Harmony OS: Цифровая платформа MAX, Rutube, Госуслуги, RuStore. Windows/MacOS/Linux: Яндекс Браузер, МойОфис Стандартный Домашняя версия, Kaspersky Free. Smart TV/Android TV: Яндекс Браузер, Яндекс с Алисой, Rutube, VK Видео для Smart TV, ИВИ, Первый, НТВ, PREMIER, КиноПоиск, Wink, Okko Movies, Смотрим, START, AMEDIATEKA, KION, Билайн ТВ, Триколор Кино и ТВ онлайн, Movix.",
+                  "valueDescription": null,
+                  "priority": 8,
+                  "measure": null
+                },
+                {
+                  "id": 30851720,
+                  "name": "Операционная система",
+                  "value": "Vidaa U9",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 11,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Технологии",
+              "priority": 9,
+              "properties": [
+                {
+                  "id": 2473,
+                  "name": "Технология HDR",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 9,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Bluetooth",
+              "priority": 10,
+              "properties": [
+                {
+                  "id": 613102,
+                  "name": "Встроенный модуль Bluetooth",
+                  "value": "Да",
+                  "nameDescription": "Модуль для беспроводного подключения к другим устройствам, в том числе и смартфонам.",
+                  "valueDescription": null,
+                  "priority": 10,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Интерфейсы",
+              "priority": 12,
+              "properties": [
+                {
+                  "id": 627,
+                  "name": "Порт USB 3.0 тип A",
+                  "value": "1",
+                  "nameDescription": "Количество портов для подключения периферийных устройств и внешних носителей информации с интерфейсом USB 3.0.",
+                  "valueDescription": null,
+                  "priority": 12,
+                  "measure": "шт"
+                },
+                {
+                  "id": 134,
+                  "name": "Порт USB 2.0 тип A",
+                  "value": "1",
+                  "nameDescription": "Количество портов для подключения периферийных устройств и внешних носителей информации с интерфейсом USB 2.0.",
+                  "valueDescription": null,
+                  "priority": 13,
+                  "measure": "шт"
+                },
+                {
+                  "id": 179,
+                  "name": "Вход HDMI",
+                  "value": "4",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 15,
+                  "measure": "шт"
+                },
+                {
+                  "id": 180,
+                  "name": "Версия HDMI",
+                  "value": "2.1",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 16,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Воспроизведение с цифровых носителей",
+              "priority": 14,
+              "properties": [
+                {
+                  "id": 5339,
+                  "name": "Воспроизведение с USB",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 14,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Дистанционное управление",
+              "priority": 17,
+              "properties": [
+                {
+                  "id": 128,
+                  "name": "Тип дистанционного управления",
+                  "value": "Wi-Fi/ Bluetooth/ голосовое/ пульт ДУ",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 17,
+                  "measure": null
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "images": [
+          "Big/400439068bb.jpg"
+        ]
+      },
+      {
+        "productId": "400709682",
+        "name": "Стул обеденный Stool Group Rina шенилл пыльно-розовый",
+        "nameTranslit": "stul-obedennyi-stool-group-rina-shenill-pylno-rozovyi",
+        "productType": "ZCON",
+        "usedProductType": null,
+        "materialCisNumber": "400709682",
+        "materialSource": "shelf",
+        "modelName": "Rina шенилл пыльно-розовый",
+        "rating": {
+          "star": 5,
+          "count": 2,
+          "percent": null
+        },
+        "supplier": {
+          "id": "K000064054",
+          "name": "ООО \"СТУЛ ГРУП\"",
+          "address": "141407, Химки, улица Панфилова, 19с1",
+          "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+          "ogrn": "1135018011699",
+          "inn": "5018159626",
+          "phone": "+74951820952"
+        },
+        "vendorCatalog": null,
+        "sublicense": false,
+        "saleLegal": false,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "weight": 5.15,
+        "image": "Big/400709682bb.jpg",
+        "brandId": "6031",
+        "brandName": "Stool Group",
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isPrepayment": false,
+          "isCannotBeExchanged": false
+        },
+        "category": {
+          "id": "32342",
+          "name": "Стулья для кухни"
+        },
+        "groups": [
+          {
+            "name": "Мебель",
+            "groupId": "32328",
+            "seoId": "32328",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Кресла и стулья",
+            "groupId": "32332",
+            "seoId": "32332",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "Стулья для кухни",
+            "groupId": "32342",
+            "seoId": "32342",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "properties": {
+          "key": [
+            {
+              "name": "Комплектация",
+              "priority": 2,
+              "properties": [
+                {
+                  "id": 600635,
+                  "name": "Количество предметов в наборе",
+                  "value": "1",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 2,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Нагрузка",
+              "priority": 3,
+              "properties": [
+                {
+                  "id": 11930,
+                  "name": "Максимальная нагрузка",
+                  "value": "120",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 3,
+                  "measure": "кг"
+                }
+              ]
+            },
+            {
+              "name": "Особенности",
+              "priority": 8,
+              "properties": [
+                {
+                  "id": 618730,
+                  "name": "Мягкий",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 8,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Вес",
+              "priority": 10,
+              "properties": [
+                {
+                  "id": 91,
+                  "name": "Вес",
+                  "value": "4.6",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 10,
+                  "measure": "кг"
+                }
+              ]
+            },
+            {
+              "name": "Габаритные размеры",
+              "priority": 11,
+              "properties": [
+                {
+                  "id": 619663,
+                  "name": "Габаритные размеры (В*Ш*Г)",
+                  "value": "77.5*47.5*51.5 см",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 11,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Цвет",
+              "priority": 12,
+              "properties": [
+                {
+                  "id": 89,
+                  "name": "Цвет",
+                  "value": "розовый",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 12,
+                  "measure": null
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "images": [
+          "Big/400709682bb.jpg",
+          "Big/400709682bb1.jpg",
+          "Big/400709682bb2.jpg",
+          "Big/400709682bb3.jpg",
+          "Big/400709682bb4.jpg",
+          "Big/400709682bb5.jpg",
+          "Big/400709682bb6.jpg",
+          "Big/400709682bb7.jpg",
+          "Big/400709682bb8.jpg",
+          "Big/400709682bb9.jpg",
+          "Big/400709682bb10.jpg",
+          "Big/400709682bb11.jpg",
+          "Big/400709682bb12.jpg",
+          "Big/400709682bb13.jpg",
+          "Big/400709682bb14.jpg"
+        ]
+      }
+    ],
+    "prices": {
+      "materialPrices": [
+        {
+          "productId": "4270210",
+          "price": {
+            "productId": "4270210",
+            "basePrice": 79999,
+            "salePrice": 61999,
+            "basePromoPrice": 61999,
+            "discounts": [
+              {
+                "type": "PRICE",
+                "promoId": "7000060891",
+                "promoName": "Скидка по акции",
+                "discount": 18000
+              }
+            ],
+            "applyPersonalPrice": false,
+            "isFinalPrice": false,
+            "isSpasiboApplicable": false,
+            "isSpasiboAvailability": false
+          },
+          "bonusRubles": {
+            "productId": "4270210",
+            "total": 16800,
+            "breakdown": [
+              {
+                "promoName": "Кешбэк 20% на всё",
+                "bonusType": "490001",
+                "total": 16800
+              }
+            ]
+          }
+        },
+        {
+          "productId": "6013767",
+          "price": {
+            "productId": "6013767",
+            "basePrice": 1799,
+            "salePrice": 399,
+            "basePromoPrice": 399,
+            "discounts": [
+              {
+                "type": "PRICE",
+                "promoId": "7000061089",
+                "promoName": "Скидка по акции",
+                "discount": 1400
+              }
+            ],
+            "applyPersonalPrice": false,
+            "isFinalPrice": true,
+            "isSpasiboApplicable": false,
+            "isSpasiboAvailability": false
+          },
+          "bonusRubles": {
+            "productId": "6013767",
+            "total": 432,
+            "breakdown": [
+              {
+                "promoName": "Кешбэк 20% на всё",
+                "bonusType": "490001",
+                "total": 432
+              }
+            ]
+          }
+        },
+        {
+          "productId": "20070352",
+          "price": {
+            "productId": "20070352",
+            "basePrice": 3999,
+            "salePrice": 1999,
+            "basePromoPrice": 1999,
+            "discounts": [
+              {
+                "type": "PRICE",
+                "promoId": "7000062094",
+                "promoName": "Скидка по акции",
+                "discount": 2000
+              }
+            ],
+            "applyPersonalPrice": false,
+            "isFinalPrice": false,
+            "isSpasiboApplicable": false,
+            "isSpasiboAvailability": false
+          },
+          "bonusRubles": {
+            "productId": "20070352",
+            "total": 600,
+            "breakdown": [
+              {
+                "promoName": "Кешбэк 20% на всё",
+                "bonusType": "490001",
+                "total": 600
+              }
+            ]
+          }
+        },
+        {
+          "productId": "400604027",
+          "price": {
+            "productId": "400604027",
+            "basePrice": 10000,
+            "salePrice": 5177,
+            "basePromoPrice": 5177,
+            "discounts": [
+              {
+                "type": "PRICE",
+                "promoId": "5000328928",
+                "promoName": "Скидка по акции",
+                "discount": 4372
+              },
+              {
+                "type": "YOUR_PRICE",
+                "promoId": "5200000013",
+                "promoName": "Твоя скидка",
+                "discount": 451
+              }
+            ],
+            "applyPersonalPrice": false,
+            "isFinalPrice": false,
+            "isSpasiboApplicable": false,
+            "isSpasiboAvailability": false
+          },
+          "bonusRubles": {
+            "productId": "400604027",
+            "total": 1276,
+            "breakdown": [
+              {
+                "promoName": "Кешбэк 20% на всё",
+                "bonusType": "490001",
+                "total": 1276
+              }
+            ]
+          }
+        },
+        {
+          "productId": "30087003",
+          "price": {
+            "productId": "30087003",
+            "basePrice": 107999,
+            "salePrice": 84999,
+            "basePromoPrice": 84999,
+            "discounts": [
+              {
+                "type": "PRICE",
+                "promoId": "7000060891",
+                "promoName": "Скидка по акции",
+                "discount": 23000
+              }
+            ],
+            "applyPersonalPrice": false,
+            "isFinalPrice": true,
+            "isSpasiboApplicable": false,
+            "isSpasiboAvailability": false
+          },
+          "bonusRubles": {
+            "productId": "30087003",
+            "total": 21120,
+            "breakdown": [
+              {
+                "promoName": "Кешбэк 20% на всё",
+                "bonusType": "490001",
+                "total": 21120
+              }
+            ]
+          }
+        },
+        {
+          "productId": "400477391",
+          "price": {
+            "productId": "400477391",
+            "basePrice": 27500,
+            "salePrice": 12225,
+            "basePromoPrice": 12225,
+            "discounts": [
+              {
+                "type": "PRICE",
+                "promoId": "5000328928",
+                "promoName": "Скидка по акции",
+                "discount": 14896
+              },
+              {
+                "type": "YOUR_PRICE",
+                "promoId": "5200000008",
+                "promoName": "Твоя скидка",
+                "discount": 379
+              }
+            ],
+            "applyPersonalPrice": false,
+            "isFinalPrice": false,
+            "isSpasiboApplicable": false,
+            "isSpasiboAvailability": false
+          },
+          "bonusRubles": {
+            "productId": "400477391",
+            "total": 3105,
+            "breakdown": [
+              {
+                "promoName": "Кешбэк 20% на всё",
+                "bonusType": "490001",
+                "total": 3105
+              }
+            ]
+          }
+        },
+        {
+          "productId": "400501506",
+          "price": {
+            "productId": "400501506",
+            "basePrice": 5990,
+            "salePrice": 3599,
+            "basePromoPrice": 3599,
+            "discounts": [
+              {
+                "type": "PRICE",
+                "promoId": "5000103718",
+                "promoName": "Скидка по акции",
+                "discount": 2391
+              }
+            ],
+            "applyPersonalPrice": false,
+            "isFinalPrice": false,
+            "isSpasiboApplicable": false,
+            "isSpasiboAvailability": false
+          },
+          "bonusRubles": {
+            "productId": "400501506",
+            "total": 1438,
+            "breakdown": [
+              {
+                "promoName": "Кешбэк 20% на всё",
+                "bonusType": "490001",
+                "total": 1438
+              }
+            ]
+          }
+        },
+        {
+          "productId": "400710251",
+          "price": {
+            "productId": "400710251",
+            "basePrice": 12990,
+            "salePrice": 4932,
+            "basePromoPrice": 4932,
+            "discounts": [
+              {
+                "type": "PRICE",
+                "promoId": "5000328928",
+                "promoName": "Скидка по акции",
+                "discount": 7570
+              },
+              {
+                "type": "YOUR_PRICE",
+                "promoId": "5200000014",
+                "promoName": "Твоя скидка",
+                "discount": 488
+              }
+            ],
+            "applyPersonalPrice": false,
+            "isFinalPrice": false,
+            "isSpasiboApplicable": false,
+            "isSpasiboAvailability": false
+          },
+          "bonusRubles": {
+            "productId": "400710251",
+            "total": 1678,
+            "breakdown": [
+              {
+                "promoName": "Кешбэк 20% на всё",
+                "bonusType": "490001",
+                "total": 1678
+              }
+            ]
+          }
+        },
+        {
+          "productId": "20036881",
+          "price": {
+            "productId": "20036881",
+            "basePrice": 28999,
+            "salePrice": 14999,
+            "basePromoPrice": 14999,
+            "discounts": [
+              {
+                "type": "PRICE",
+                "promoId": "7000060891",
+                "promoName": "Скидка по акции",
+                "discount": 14000
+              }
+            ],
+            "applyPersonalPrice": false,
+            "isFinalPrice": false,
+            "isSpasiboApplicable": false,
+            "isSpasiboAvailability": false
+          },
+          "bonusRubles": {
+            "productId": "20036881",
+            "total": 3600,
+            "breakdown": [
+              {
+                "promoName": "Кешбэк 20% на всё",
+                "bonusType": "490001",
+                "total": 3600
+              }
+            ]
+          }
+        },
+        {
+          "productId": "400709682",
+          "price": {
+            "productId": "400709682",
+            "basePrice": 6470,
+            "salePrice": 5297,
+            "basePromoPrice": 5297,
+            "discounts": [
+              {
+                "type": "PRICE",
+                "promoId": "5000328928",
+                "promoName": "Скидка по акции",
+                "discount": 712
+              },
+              {
+                "type": "YOUR_PRICE",
+                "promoId": "5200000013",
+                "promoName": "Твоя скидка",
+                "discount": 461
+              }
+            ],
+            "applyPersonalPrice": false,
+            "isFinalPrice": false,
+            "isSpasiboApplicable": false,
+            "isSpasiboAvailability": false
+          },
+          "bonusRubles": {
+            "productId": "400709682",
+            "total": 1401,
+            "breakdown": [
+              {
+                "promoName": "Кешбэк 20% на всё",
+                "bonusType": "490001",
+                "total": 1401
+              }
+            ]
+          }
+        },
+        {
+          "productId": "30080789",
+          "price": {
+            "productId": "30080789",
+            "basePrice": 46999,
+            "salePrice": 36999,
+            "basePromoPrice": 36999,
+            "discounts": [
+              {
+                "type": "PRICE",
+                "promoId": "7000060891",
+                "promoName": "Скидка по акции",
+                "discount": 10000
+              }
+            ],
+            "applyPersonalPrice": false,
+            "isFinalPrice": false,
+            "isSpasiboApplicable": false,
+            "isSpasiboAvailability": false
+          },
+          "bonusRubles": {
+            "productId": "30080789",
+            "total": 8640,
+            "breakdown": [
+              {
+                "promoName": "Кешбэк 20% на всё",
+                "bonusType": "490001",
+                "total": 8640
+              }
+            ]
+          }
+        },
+        {
+          "productId": "400747759",
+          "price": {
+            "productId": "400747759",
+            "basePrice": 15990,
+            "salePrice": 12261,
+            "basePromoPrice": 12261,
+            "discounts": [
+              {
+                "type": "PRICE",
+                "promoId": "5000328928",
+                "promoName": "Скидка по акции",
+                "discount": 3478
+              },
+              {
+                "type": "YOUR_PRICE",
+                "promoId": "5200000009",
+                "promoName": "Твоя скидка",
+                "discount": 251
+              }
+            ],
+            "applyPersonalPrice": false,
+            "isFinalPrice": false,
+            "isSpasiboApplicable": false,
+            "isSpasiboAvailability": false
+          },
+          "bonusRubles": {
+            "productId": "400747759",
+            "total": 2789,
+            "breakdown": [
+              {
+                "promoName": "Кешбэк 20% на всё",
+                "bonusType": "490001",
+                "total": 2789
+              }
+            ]
+          }
+        },
+        {
+          "productId": "400469266",
+          "price": {
+            "productId": "400469266",
+            "basePrice": 7490,
+            "salePrice": 4462,
+            "basePromoPrice": 4462,
+            "discounts": [
+              {
+                "type": "PRICE",
+                "promoId": "5000328928",
+                "promoName": "Скидка по акции",
+                "discount": 2890
+              },
+              {
+                "type": "YOUR_PRICE",
+                "promoId": "5200000008",
+                "promoName": "Твоя скидка",
+                "discount": 138
+              }
+            ],
+            "applyPersonalPrice": false,
+            "isFinalPrice": false,
+            "isSpasiboApplicable": false,
+            "isSpasiboAvailability": false
+          },
+          "bonusRubles": {
+            "productId": "400469266",
+            "total": 1604,
+            "breakdown": [
+              {
+                "promoName": "Кешбэк 20% на всё",
+                "bonusType": "490001",
+                "total": 1604
+              }
+            ]
+          }
+        },
+        {
+          "productId": "400514606",
+          "price": {
+            "productId": "400514606",
+            "basePrice": 47990,
+            "salePrice": 24270,
+            "basePromoPrice": 24270,
+            "discounts": [
+              {
+                "type": "PRICE",
+                "promoId": "5000328928",
+                "promoName": "Скидка по акции",
+                "discount": 21319
+              },
+              {
+                "type": "YOUR_PRICE",
+                "promoId": "5200000014",
+                "promoName": "Твоя скидка",
+                "discount": 2401
+              }
+            ],
+            "applyPersonalPrice": false,
+            "isFinalPrice": false,
+            "isSpasiboApplicable": false,
+            "isSpasiboAvailability": false
+          },
+          "bonusRubles": {
+            "productId": "400514606",
+            "total": 7355,
+            "breakdown": [
+              {
+                "promoName": "Кешбэк 20% на всё",
+                "bonusType": "490001",
+                "total": 7355
+              }
+            ]
+          }
+        },
+        {
+          "productId": "20097468",
+          "price": {
+            "productId": "20097468",
+            "basePrice": 53499,
+            "salePrice": 27999,
+            "basePromoPrice": 27999,
+            "discounts": [
+              {
+                "type": "PRICE",
+                "promoId": "7000060891",
+                "promoName": "Скидка по акции",
+                "discount": 25500
+              }
+            ],
+            "applyPersonalPrice": false,
+            "isFinalPrice": false,
+            "isSpasiboApplicable": false,
+            "isSpasiboAvailability": false
+          },
+          "bonusRubles": {
+            "productId": "20097468",
+            "total": 6240,
+            "breakdown": [
+              {
+                "promoName": "Кешбэк 20% на всё",
+                "bonusType": "490001",
+                "total": 6240
+              }
+            ]
+          }
+        },
+        {
+          "productId": "400439068",
+          "price": {
+            "productId": "400439068",
+            "basePrice": 89999,
+            "salePrice": 64999,
+            "basePromoPrice": 64999,
+            "discounts": [
+              {
+                "type": "PRICE",
+                "promoId": "7000060891",
+                "promoName": "Скидка по акции",
+                "discount": 25000
+              }
+            ],
+            "applyPersonalPrice": false,
+            "isFinalPrice": false,
+            "isSpasiboApplicable": false,
+            "isSpasiboAvailability": false
+          },
+          "bonusRubles": {
+            "productId": "400439068",
+            "total": 16800,
+            "breakdown": [
+              {
+                "promoName": "Кешбэк 20% на всё",
+                "bonusType": "490001",
+                "total": 16800
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "labels": [
+      {
+        "labels": [],
+        "productId": "400747759"
+      },
+      {
+        "labels": [
+          {
+            "filledBg": true,
+            "borderColor": "mauvelous",
+            "name": "НДС в твою пользу",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Оплати картой Альфа-Банка – и 22% цены вернётся рублями на карту*.<br><a href=\"/promo/keshbek-rublyami-alfa?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "green",
+            "name": "Рассрочка 0-0-24",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Оформи рассрочку без первоначального взноса, без переплат, сроком на 24 месяца.<br><a href=\"/promo/rassrochka-0-0-24?from=promo-tooltip\" target=\"_blank\">Подробнее</a>"
+            }
+          }
+        ],
+        "productId": "4270210"
+      },
+      {
+        "labels": [
+          {
+            "filledBg": true,
+            "borderColor": "black",
+            "name": "Чёрная пятница",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Да, Чёрная пятница – весной. Делай супервыгодные покупки, пока другие удивляются.<br><a href=\"/promo/chernaya-pyatnica-aprel?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "green",
+            "name": "М.Комбо за 1₽",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Оформи пробную подписку за 1₽ и получи доступ к выгодным условиям, бонусам и персональным предложениям только для подписчиков<br><a href=\"/mcombo?from=promo-tooltip\" target=\"_blank\">Оформить</a>"
+            }
+          }
+        ],
+        "productId": "400514606"
+      },
+      {
+        "labels": [
+          {
+            "filledBg": true,
+            "borderColor": "cornflower-blue",
+            "name": "Колонка в подарок",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Купи этот товар и получи умную колонку SberBoom Home в подарок .<br><a href=\"/promo/umnaya-kolonka-sber-v-podarok?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "mauvelous",
+            "name": "НДС в твою пользу",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Оплати картой Альфа-Банка – и 22% цены вернётся рублями на карту*.<br><a href=\"/promo/keshbek-rublyami-alfa?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "green",
+            "name": "Рассрочка 0-0-12",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Оформи рассрочку без первоначального взноса, без переплат, сроком на 12 месяцев.<br><a href=\"/promo/rassrochka-na-vse-iphone?from=promo-tooltip\" target=\"_blank\">Подробнее</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "medium-purple",
+            "name": "без RuStore",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Обращаем внимание, на данном устройстве не предустановлено и нет возможности установить RuStore."
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "black",
+            "name": "Чёрная пятница",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Да, Чёрная пятница – весной. Делай супервыгодные покупки, пока другие удивляются.<br><a href=\"/promo/chernaya-pyatnica-aprel?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "mauvelous",
+            "name": "-60% на KION",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Забирай подписку KION со скидкой 60% при покупке этого товара. Тысячи фильмов и сериалов ждут! <br><a href=\"/promo/skidka-na-kion-za-pokupku?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "green",
+            "name": "М.Комбо за 1₽",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Оформи пробную подписку за 1₽ и получи доступ к выгодным условиям, бонусам и персональным предложениям только для подписчиков<br><a href=\"/mcombo?from=promo-tooltip\" target=\"_blank\">Оформить</a>"
+            }
+          }
+        ],
+        "productId": "30087003"
+      },
+      {
+        "labels": [
+          {
+            "filledBg": true,
+            "borderColor": "medium-purple",
+            "name": "Поруби цену",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Руби цену на части, забирай товар сегодня и вноси по 1 платежу раз в 2 недели. Проверь: может наша новая услуга уже доступна и тебе?<br><a href=\"/promo/servis-porublu?from=promo-tooltip\" target=\"_blank\">Подробнее</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "yellow",
+            "name": "Товар дня!",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Техника по суперценам — каждый день. Успей заказать!<br><a href=\"/promo/daily-star?from=promo-tooltip\" target=\"_blank\">Подробнее</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "green",
+            "name": "М.Комбо за 1₽",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Оформи пробную подписку за 1₽ и получи доступ к выгодным условиям, бонусам и персональным предложениям только для подписчиков<br><a href=\"/mcombo?from=promo-tooltip\" target=\"_blank\">Оформить</a>"
+            }
+          }
+        ],
+        "productId": "6013767"
+      },
+      {
+        "labels": [
+          {
+            "filledBg": true,
+            "borderColor": "medium-purple",
+            "name": "Поруби цену",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Руби цену на части, забирай товар сегодня и вноси по 1 платежу раз в 2 недели. Проверь: может наша новая услуга уже доступна и тебе?<br><a href=\"/promo/servis-porublu?from=promo-tooltip\" target=\"_blank\">Подробнее</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "mauvelous",
+            "name": "НДС в твою пользу",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Оплати картой Альфа-Банка – и 22% цены вернётся рублями на карту*.<br><a href=\"/promo/keshbek-rublyami-alfa?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "green",
+            "name": "М.Комбо за 1₽",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Оформи пробную подписку за 1₽ и получи доступ к выгодным условиям, бонусам и персональным предложениям только для подписчиков<br><a href=\"/mcombo?from=promo-tooltip\" target=\"_blank\">Оформить</a>"
+            }
+          }
+        ],
+        "productId": "400469266"
+      },
+      {
+        "labels": [
+          {
+            "filledBg": true,
+            "borderColor": "medium-purple",
+            "name": "Поруби цену",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Руби цену на части, забирай товар сегодня и вноси по 1 платежу раз в 2 недели. Проверь: может наша новая услуга уже доступна и тебе?<br><a href=\"/promo/servis-porublu?from=promo-tooltip\" target=\"_blank\">Подробнее</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "green",
+            "name": "М.Комбо за 1₽",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Оформи пробную подписку за 1₽ и получи доступ к выгодным условиям, бонусам и персональным предложениям только для подписчиков<br><a href=\"/mcombo?from=promo-tooltip\" target=\"_blank\">Оформить</a>"
+            }
+          }
+        ],
+        "productId": "400477391"
+      },
+      {
+        "labels": [
+          {
+            "filledBg": true,
+            "borderColor": "medium-purple",
+            "name": "Поруби цену",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Руби цену на части, забирай товар сегодня и вноси по 1 платежу раз в 2 недели. Проверь: может наша новая услуга уже доступна и тебе?<br><a href=\"/promo/servis-porublu?from=promo-tooltip\" target=\"_blank\">Подробнее</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "mauvelous",
+            "name": "НДС в твою пользу",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Оплати картой Альфа-Банка – и 22% цены вернётся рублями на карту*.<br><a href=\"/promo/keshbek-rublyami-alfa?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "black",
+            "name": "Чёрная пятница",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Да, Чёрная пятница – весной. Делай супервыгодные покупки, пока другие удивляются.<br><a href=\"/promo/chernaya-pyatnica-aprel?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "black",
+            "name": "Дачку на прокачку",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Дачный сезон ещё не начался, а ты уже можешь к нему приготовиться с отличной скидкой.<br><a href=\"/promo/promocatalog?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "medium-purple",
+            "name": "Кешбэк за комплект",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Купи эту технику в комплекте с посудой и аксессуарами и получи на них кешбэк 100%.<br><a href=\"/promo/keshbek-na-dopolnitelnye-tovary-pri-pokupke-krupnoj-bytovoj-i-klimaticheskoj-tekhniki?from=promo-tooltip\" target=\"_blank\">За кешбэком</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "green",
+            "name": "М.Комбо за 1₽",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Оформи пробную подписку за 1₽ и получи доступ к выгодным условиям, бонусам и персональным предложениям только для подписчиков<br><a href=\"/mcombo?from=promo-tooltip\" target=\"_blank\">Оформить</a>"
+            }
+          }
+        ],
+        "productId": "20097468"
+      },
+      {
+        "labels": [],
+        "productId": "400604027"
+      },
+      {
+        "labels": [
+          {
+            "filledBg": true,
+            "borderColor": "medium-purple",
+            "name": "Поруби цену",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Руби цену на части, забирай товар сегодня и вноси по 1 платежу раз в 2 недели. Проверь: может наша новая услуга уже доступна и тебе?<br><a href=\"/promo/servis-porublu?from=promo-tooltip\" target=\"_blank\">Подробнее</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "mauvelous",
+            "name": "НДС в твою пользу",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Оплати картой Альфа-Банка – и 22% цены вернётся рублями на карту*.<br><a href=\"/promo/keshbek-rublyami-alfa?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "black",
+            "name": "Чёрная пятница",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Да, Чёрная пятница – весной. Делай супервыгодные покупки, пока другие удивляются.<br><a href=\"/promo/chernaya-pyatnica-aprel?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "green",
+            "name": "М.Комбо за 1₽",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Оформи пробную подписку за 1₽ и получи доступ к выгодным условиям, бонусам и персональным предложениям только для подписчиков<br><a href=\"/mcombo?from=promo-tooltip\" target=\"_blank\">Оформить</a>"
+            }
+          }
+        ],
+        "productId": "400501506"
+      },
+      {
+        "labels": [
+          {
+            "filledBg": true,
+            "borderColor": "medium-purple",
+            "name": "Поруби цену",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Руби цену на части, забирай товар сегодня и вноси по 1 платежу раз в 2 недели. Проверь: может наша новая услуга уже доступна и тебе?<br><a href=\"/promo/servis-porublu?from=promo-tooltip\" target=\"_blank\">Подробнее</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "mauvelous",
+            "name": "НДС в твою пользу",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Оплати картой Альфа-Банка – и 22% цены вернётся рублями на карту*.<br><a href=\"/promo/keshbek-rublyami-alfa?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "black",
+            "name": "Чёрная пятница",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Да, Чёрная пятница – весной. Делай супервыгодные покупки, пока другие удивляются.<br><a href=\"/promo/chernaya-pyatnica-aprel?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "black",
+            "name": "Дачку на прокачку",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Дачный сезон ещё не начался, а ты уже можешь к нему приготовиться с отличной скидкой.<br><a href=\"/promo/promocatalog?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "cornflower-blue",
+            "name": "-20% на удлинитель",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "При покупке этого товара получите скидку 20% на сетевой фильтр или удлинитель.<br><a href=\"/promo/skidka-20-na-setevoi-filtr-ili-udlinitel-mark200030713?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "green",
+            "name": "М.Комбо за 1₽",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Оформи пробную подписку за 1₽ и получи доступ к выгодным условиям, бонусам и персональным предложениям только для подписчиков<br><a href=\"/mcombo?from=promo-tooltip\" target=\"_blank\">Оформить</a>"
+            }
+          }
+        ],
+        "productId": "20070352"
+      },
+      {
+        "labels": [
+          {
+            "filledBg": true,
+            "borderColor": "black",
+            "name": "Дачку на прокачку",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Дачный сезон ещё не начался, а ты уже можешь к нему приготовиться с отличной скидкой.<br><a href=\"/promo/promocatalog?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          }
+        ],
+        "productId": "400710251"
+      },
+      {
+        "labels": [
+          {
+            "filledBg": true,
+            "borderColor": "medium-purple",
+            "name": "Поруби цену",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Руби цену на части, забирай товар сегодня и вноси по 1 платежу раз в 2 недели. Проверь: может наша новая услуга уже доступна и тебе?<br><a href=\"/promo/servis-porublu?from=promo-tooltip\" target=\"_blank\">Подробнее</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "mauvelous",
+            "name": "НДС в твою пользу",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Оплати картой Альфа-Банка – и 22% цены вернётся рублями на карту*.<br><a href=\"/promo/keshbek-rublyami-alfa?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "black",
+            "name": "Чёрная пятница",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Да, Чёрная пятница – весной. Делай супервыгодные покупки, пока другие удивляются.<br><a href=\"/promo/chernaya-pyatnica-aprel?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "black",
+            "name": "Дачку на прокачку",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Дачный сезон ещё не начался, а ты уже можешь к нему приготовиться с отличной скидкой.<br><a href=\"/promo/promocatalog?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "green",
+            "name": "М.Комбо за 1₽",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Оформи пробную подписку за 1₽ и получи доступ к выгодным условиям, бонусам и персональным предложениям только для подписчиков<br><a href=\"/mcombo?from=promo-tooltip\" target=\"_blank\">Оформить</a>"
+            }
+          }
+        ],
+        "productId": "20036881"
+      },
+      {
+        "labels": [
+          {
+            "filledBg": true,
+            "borderColor": "mauvelous",
+            "name": "НДС в твою пользу",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Оплати картой Альфа-Банка – и 22% цены вернётся рублями на карту*.<br><a href=\"/promo/keshbek-rublyami-alfa?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "green",
+            "name": "Рассрочка 0-0-12",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Оформи рассрочку без первоначального взноса, без переплат, сроком на 12 месяцев.<br><a href=\"/promo/akciya-rassrochka-mark199208912?from=promo-tooltip\" target=\"_blank\">Подробнее</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "black",
+            "name": "Чёрная пятница",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Да, Чёрная пятница – весной. Делай супервыгодные покупки, пока другие удивляются.<br><a href=\"/promo/chernaya-pyatnica-aprel?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "mauvelous",
+            "name": "-60% на KION",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Забирай подписку KION со скидкой 60% при покупке этого товара. Тысячи фильмов и сериалов ждут! <br><a href=\"/promo/skidka-na-kion-za-pokupku?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "green",
+            "name": "М.Комбо за 1₽",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Оформи пробную подписку за 1₽ и получи доступ к выгодным условиям, бонусам и персональным предложениям только для подписчиков<br><a href=\"/mcombo?from=promo-tooltip\" target=\"_blank\">Оформить</a>"
+            }
+          }
+        ],
+        "productId": "30080789"
+      },
+      {
+        "labels": [
+          {
+            "filledBg": true,
+            "borderColor": "mauvelous",
+            "name": "НДС в твою пользу",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Оплати картой Альфа-Банка – и 22% цены вернётся рублями на карту*.<br><a href=\"/promo/keshbek-rublyami-alfa?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "green",
+            "name": "Рассрочка 0-0-24",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Оформи рассрочку без первоначального взноса, без переплат, сроком на 24 месяца.<br><a href=\"/promo/rassrochka-0-0-24?from=promo-tooltip\" target=\"_blank\">Подробнее</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "black",
+            "name": "Чёрная пятница",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Да, Чёрная пятница – весной. Делай супервыгодные покупки, пока другие удивляются.<br><a href=\"/promo/chernaya-pyatnica-aprel?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "medium-purple",
+            "name": "-20% на кронштейн",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "При покупке этого товара скидка 20% на кронштейн.<br><a href=\"/promo/skidka-na-kronshtejn-pri-pokupke-tv?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "medium-purple",
+            "name": "Кешбэк за комплект",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Купи эту технику в комплекте с посудой и аксессуарами и получи на них кешбэк 100%.<br><a href=\"/promo/keshbek-na-dopolnitelnye-tovary-pri-pokupke-krupnoj-bytovoj-i-klimaticheskoj-tekhniki?from=promo-tooltip\" target=\"_blank\">За кешбэком</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "mauvelous",
+            "name": "-60% на KION",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Забирай подписку KION со скидкой 60% при покупке этого товара. Тысячи фильмов и сериалов ждут! <br><a href=\"/promo/skidka-na-kion-za-pokupku?from=promo-tooltip\" target=\"_blank\">Купить</a>"
+            }
+          },
+          {
+            "filledBg": false,
+            "borderColor": "green",
+            "name": "М.Комбо за 1₽",
+            "tooltip": {
+              "backgroundImageUrl": null,
+              "backgroundColor": null,
+              "description": "Оформи пробную подписку за 1₽ и получи доступ к выгодным условиям, бонусам и персональным предложениям только для подписчиков<br><a href=\"/mcombo?from=promo-tooltip\" target=\"_blank\">Оформить</a>"
+            }
+          }
+        ],
+        "productId": "400439068"
+      },
+      {
+        "labels": [],
+        "productId": "400709682"
+      }
+    ]
+  }
+}
