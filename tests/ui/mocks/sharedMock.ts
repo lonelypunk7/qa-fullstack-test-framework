@@ -1,7 +1,10 @@
 import { Page, Route } from "@playwright/test";
 import productsMockResponse from "./fixtures/products.mock.full.json";
+import searchTipsMockResponse from "./fixtures/search-tips.mock.full.json";
 import shelfProductSetsHitsMockResponse from "./fixtures/shelf-product-sets.hits.one-item.json";
 import structureMockResponse from "./fixtures/structure.mock.full.json";
+
+const RENAMED_SINGLE_PRODUCT_NAME = "QA MOCK: Переименованный тестовый товар";
 
 type MockResponseOptions = {
   status?: number;
@@ -57,10 +60,24 @@ export function getProductsMock() {
   return productsMockResponse;
 }
 
+export function getProductsMockWithRenamedSingleItem() {
+  const clonedProductsMock = JSON.parse(JSON.stringify(productsMockResponse));
+  clonedProductsMock.body.items[0].name = RENAMED_SINGLE_PRODUCT_NAME;
+  return clonedProductsMock;
+}
+
 export function getFirstMockedProductName() {
   return productsMockResponse.body.items[0].name;
 }
 
+export function getFirstRenamedMockedProductName() {
+  return RENAMED_SINGLE_PRODUCT_NAME;
+}
+
 export function getShelfProductSetsHitsMock() {
   return shelfProductSetsHitsMockResponse;
+}
+
+export function getSearchSuggestMock() {
+  return searchTipsMockResponse;
 }

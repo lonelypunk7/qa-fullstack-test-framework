@@ -1,0 +1,73 @@
+{
+  "success": true,
+  "messages": [],
+  "body": {
+    "chips": [
+      {
+        "tap": "мобильные",
+        "relatedSearch": "телефоны мобильные"
+      },
+      {
+        "tap": "samsung",
+        "relatedSearch": "телефон samsung"
+      },
+      {
+        "tap": "кнопочный",
+        "relatedSearch": "телефон кнопочный"
+      },
+      {
+        "tap": "xiaomi",
+        "relatedSearch": "телефон xiaomi"
+      },
+      {
+        "tap": "honor",
+        "relatedSearch": "телефон honor"
+      }
+    ],
+    "products": [
+      {
+        "id": "400491035"
+      },
+      {
+        "id": "400491038"
+      }
+    ],
+    "strings": [
+      {
+        "text": "телефон"
+      },
+      {
+        "text": "телефон samsung"
+      }
+    ],
+    "categories": [
+      {
+        "text": "Телефоны мобильные",
+        "categoryId": "512",
+        "link": "/smartfony-i-svyaz-10/mobilnye-telefony-95"
+      },
+      {
+        "text": "Смартфоны",
+        "categoryId": "761"
+      }
+    ],
+    "vendors": [
+      {
+        "text": "BQ",
+        "vendorId": "4755042",
+        "url": "/brand/bq-2139"
+      },
+      {
+        "text": "Philips - PHILIPS",
+        "vendorId": "4754739",
+        "url": "/brand/philips-11"
+      },
+      {
+        "text": "Xiaomi - XIAOMI",
+        "vendorId": "4755868",
+        "url": "/brand/xiaomi-1083"
+      }
+    ],
+    "system": "diginetica"
+  }
+}
