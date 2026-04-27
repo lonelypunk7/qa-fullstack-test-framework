@@ -1,40 +1,64 @@
 # QA Fullstack Test Framework
 
-Playwright-based template for the QA Fullstack Engineer test assignment.
+Шаблон на базе Playwright для тестового задания QA Fullstack Engineer.
 
-## Included
+UI-тесты в этом проекте покрывают витрину М.Видео (интернет-магазин электроники и бытовой техники): поиск, саджест, карточки товаров, сортировку и визуальные снапшоты на desktop и mobile.
 
-- UI tests (`tests/ui`) against a public web resource
-- API tests (`tests/api`) against public API endpoints
-- Shared helper for API requests (`utils/api-client.ts`)
-- HTML report generation
+## Что входит
 
-## Stack
+- UI-тесты (`tests/ui`) для публичного веб-ресурса
+- API-тесты (`tests/api`) для публичных API-эндпоинтов
+- Общий helper для API-запросов (`utils/api-client.ts`)
+- Генерация HTML-отчёта
+
+## Стек
 
 - TypeScript
 - Playwright Test
 
-## Install
+## Установка
 
 ```bash
 npm install
 npx playwright install chromium
 ```
 
-## Run tests
+## Запуск тестов
 
 ```bash
-# all tests
+# все тесты
 npm test
 
-# only UI
+# только UI
 npm run test:ui
 
-# only API
+# только API
 npm run test:api
 ```
 
-## Open report
+## Запуск по типам тестов
+
+```bash
+# UI desktop функциональные
+npx playwright test tests/ui/desktop/functional --project=ui-chromium
+
+# UI desktop снапшотные
+npx playwright test tests/ui/desktop/screenshot --project=ui-chromium
+
+# UI mobile функциональные
+npx playwright test tests/ui/mobile/functional --project=ui-mobile-chromium
+
+# UI mobile снапшотные
+npx playwright test tests/ui/mobile/screenshot --project=ui-mobile-chromium
+
+# API (все)
+npx playwright test tests/api
+
+# API (пример PokemonAPI)
+npx playwright test tests/api/pokemon.api.spec.ts
+```
+
+## Открыть отчёт
 
 ```bash
 npm run report
