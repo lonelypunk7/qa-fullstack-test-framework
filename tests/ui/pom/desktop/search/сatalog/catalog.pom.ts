@@ -6,12 +6,14 @@ export class CatalogPom {
   readonly firstProductAddedStateButton: Locator;
 
   constructor(private readonly page: Page) {
-    this.firstProductCard = this.page.locator("mvid-plp-product-card").first();
+    this.firstProductCard = this.page
+      .getByText("Аэрогриль FELFRI FF-AF-035.0")
+      .first();
     this.firstProductAddToCartButton = this.firstProductCard
-      .getByRole("button", { name: /В корзину|Добавить в корзину/i })
+      .getByRole("button", { name: "Добавить в корзину" })
       .first();
     this.firstProductAddedStateButton = this.firstProductCard
-      .getByRole("button", { name: /В корзине|Перейти в корзину|Оформить/i })
+      .getByRole("button", { name: "Перейти в корзину" })
       .first();
   }
 

@@ -81,3 +81,46 @@ export function getShelfProductSetsHitsMock() {
 export function getSearchSuggestMock() {
   return searchTipsMockResponse;
 }
+
+export function getCartBeforeAddMock() {
+  return {
+    body: {
+      items: [],
+      totalItems: 0,
+    },
+  };
+}
+
+export function getCartAfterAddMock() {
+  return {
+    body: {
+      items: [{ id: "1672265", quantity: 1 }],
+      totalItems: 1,
+    },
+  };
+}
+
+/**
+ * Mocks cart endpoint with sequential responses:
+ * first request -> "before add", second and next -> "after add".
+ */
+export async function mockCartBeforeAndAfterAdd(
+  page: Page,
+  urlPattern: string | RegExp
+): Promise<void> {
+  let requestCount = 0;
+
+  await page.route(urlPattern, async (route: Route) => {
+    requestCount += 1;
+
+    await route.fulfill({
+      status: 200,
+      headers: {
+        "content-type": "application/json; charset=utf-8",
+      },
+      body: JSON.stringify(
+        requestCount === 1 ? getCartBeforeAddMock() : getCartAfterAddMock()
+      ),
+    });
+  });
+}

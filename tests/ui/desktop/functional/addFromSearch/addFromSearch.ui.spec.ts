@@ -7,6 +7,7 @@ import {
   getSearchSuggestMock,
   getShelfProductSetsHitsMock,
   getStructureMock,
+  mockCartBeforeAndAfterAdd,
   ObjectMocker,
 } from "../../../mocks/sharedMock";
 import { CatalogPom } from "../../../pom/desktop/search/сatalog/catalog.pom";
@@ -31,6 +32,7 @@ test("@TID-SEARCH-022 Добавление товара в корзину из �
     "https://www.mvideo.ru/bff/search/tips-full*",
     getSearchSuggestMock(),
   );
+  await mockCartBeforeAndAfterAdd(page, "https://www.mvideo.ru/bff/cart*");
 
   await prepareHomePage(page);
   await confirmMoscowCityIfPrompted(page);
@@ -44,23 +46,13 @@ test("@TID-SEARCH-022 Добавление товара в корзину из �
   await test.step("Товар отображается в каталоге", async () => {
     await expect(productCard).toBeVisible();
     await expect(addToCartButton).toBeVisible();
-    await expect(addToCartButton).toContainText(
-      /В корзину|Добавить в корзину/i,
-    );
+    await expect(addedStateButton).not.toBeVisible();
   });
 
   await test.step("Нажимаем кнопку добавления и проверяем новый текст кнопки", async () => {
-    const initialButtonText = (
-      (await addToCartButton.textContent()) ?? ""
-    ).trim();
-    await addToCartButton.click({ force: true });
-    await expect(addToCartButton).not.toContainText(
-      /В корзину|Добавить в корзину/i,
-    );
-    await expect(addToCartButton).not.toHaveText(initialButtonText);
+    await addToCartButton.click();
+
+    await expect(addToCartButton).not.toBeVisible();
     await expect(addedStateButton).toBeVisible();
-    await expect(addedStateButton).toContainText(
-      /В корзине|Перейти в корзину|Оформить/i,
-    );
   });
 });
