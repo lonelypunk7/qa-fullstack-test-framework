@@ -1,5 +1,8 @@
 import { expect, test } from "@playwright/test";
-import { closeMobileBlockingOverlays } from "../../../../commands/mobile.commands";
+import {
+  closeMobileBlockingOverlays,
+  mockMobilePromoPopup,
+} from "../../../../commands/mobile.commands";
 import { openSearchPage } from "../../../../commands/navigation.commands";
 import { openSearchSuggestWithQuery } from "../../../../commands/search.commands";
 import {
@@ -16,6 +19,7 @@ import { SearchPom } from "../../../../pom/mobile/search/search.pom";
 let searchPom: SearchPom;
 
 test.beforeEach(async ({ page }) => {
+  await mockMobilePromoPopup(page);
   searchPom = new SearchPom(page);
   const objectMocker = new ObjectMocker(page);
   await objectMocker.mock(

@@ -2,6 +2,7 @@ import { expect, test } from "@playwright/test";
 import {
   closeMobileBlockingOverlays,
   closeMobileModalLayoutIfPrompted,
+  mockMobilePromoPopup,
 } from "../../../../commands/mobile.commands";
 import { openHomePage } from "../../../../commands/navigation.commands";
 import { openSearchSuggestWithQuery } from "../../../../commands/search.commands";
@@ -18,6 +19,7 @@ import { SearchPom } from "../../../../pom/mobile/search/search.pom";
 let searchPom: SearchPom;
 
 test.beforeEach(async ({ page }) => {
+  await mockMobilePromoPopup(page);
   searchPom = new SearchPom(page);
   const objectMocker = new ObjectMocker(page);
   await objectMocker.mock(

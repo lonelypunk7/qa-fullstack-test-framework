@@ -1,18 +1,16 @@
 import { expect, test } from "@playwright/test";
-import { prepareHomePage } from "../../../../commands/navigation.commands";
-import {
-  closeMobileBlockingOverlays,
-  closeMobileModalLayoutIfPrompted,
-} from "../../../../commands/mobile.commands";
-import { openSearchSuggestWithQuery } from "../../../../commands/search.commands";
+import { prepareHomePage } from "../../../commands/navigation.commands";
+import { openSearchSuggestWithQuery } from "../../../commands/search.commands";
+import { acceptCookiesIfPrompted } from "../../../actions/cookie.actions";
+import { confirmMoscowCityIfPrompted } from "../../../actions/location.actions";
 import {
   getProductsMock,
   getSearchSuggestMock,
   getShelfProductSetsHitsMock,
   getStructureMock,
   ObjectMocker,
-} from "../../../../mocks/sharedMock";
-import { SearchPom } from "../../../../pom/mobile/search/search.pom";
+} from "../../../mocks/sharedMock";
+import { SearchPom } from "../../../pom/desktop/search/search.pom";
 
 let searchPom: SearchPom;
 
@@ -36,11 +34,11 @@ test.beforeEach(async ({ page }) => {
     getSearchSuggestMock(),
   );
   await prepareHomePage(page);
-  await closeMobileBlockingOverlays(page);
-  await closeMobileModalLayoutIfPrompted(page);
+  await acceptCookiesIfPrompted(page);
+  await confirmMoscowCityIfPrompted(page);
 });
 
-test("@TID-SEARCH-002 Появление и выбор саджеста при клике на поисквую строку", async ({
+test("@TID-SEARCH-011 Появление и выбор саджеста при клике на поисквую строку", async ({
   page,
 }) => {
   const searchInput = searchPom.searchInput;
@@ -68,7 +66,7 @@ test("@TID-SEARCH-002 Появление и выбор саджеста при �
   });
 });
 
-test("@TID-SEARCH-003 Тап на саджест при введенном поисковом запросе на главной странице", async ({
+test("@TID-SEARCH-012 Тап на саджест при введенном поисковом запросе на главной странице", async ({
   page,
 }) => {
   const suggestRoot = searchPom.suggest.root;
